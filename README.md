@@ -20,7 +20,8 @@ We can get around this by mapping a drive to the UNC path and referencing that n
     > net use Batches: \\path\on\network\drive\to\batches
     > Batches:
 
-It will change our working directory to batches folder 
+It will change our working directory to batches folder
+
     Batches:\>
 
 Now we can run the script
@@ -33,11 +34,11 @@ or
 
 2. If the files on local machine
 
-    > cd C:\Path\to\files
+    C:\widows> cd C:\Path\to\files
 
-    > ./jobparser_v3.ps1
+    C:\Path\to\files> ./jobparser_v3.ps1
 or
-    > C:\Path\to\files\jobparser_v3.ps1
+    C:\Path\to\files> C:\Path\to\files\jobparser_v3.ps1
 
 
 ### Supported commands
