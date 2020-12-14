@@ -1,0 +1,2834 @@
+DataStage Report - Detail Status of jobs:  
+Produced on: 11-12-2020 08:16:45
+Project: NL_DM_ACS
+Host system: LRV1540R
+Items: 1 - 281
+Sorted on: Date Sorter
+
+   Item #: 1
+   Job name: NL_DB_ACS_DMT_D1_CYC_D
+   Status: Running
+   Started: 08:10
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 2
+   Job name: NL_DB_ACS_DMT_D1_STRTG_D
+   Status: Running
+   Started: 08:10
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 3
+   Job name: NL_DB_ACS_DMT_D1_TRTM_PHASE_D
+   Status: Running
+   Started: 08:10
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 4
+   Job name: NL_DB_ACS_DMT_D2_TRTM_POS
+   Status: Finished
+   Started: 08:07
+   On date: 11-12-2020
+   Last ran: 08:10
+   On date: 11-12-2020
+   Elapsed time: 00:03:20
+   Description: 
+
+   Item #: 5
+   Job name: NL_DB_ACS_DMT_D1_ARS_CAUS
+   Status: Finished
+   Started: 08:07
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:01:43
+   Description: 
+
+   Item #: 6
+   Job name: NL_DB_ACS_DMT_D1_RTE
+   Status: Finished
+   Started: 08:06
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:01:35
+   Description: 
+
+   Item #: 7
+   Job name: NL_DB_ACS_DMT_D1_CMM_CDR
+   Status: Finished
+   Started: 08:06
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:02:04
+   Description: 
+
+   Item #: 8
+   Job name: NL_DB_ACS_DMT_D1_EV
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:02:14
+   Description: 
+
+   Item #: 9
+   Job name: NL_DB_ACS_DMT_D1_COLL_AGNC
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:02:24
+   Description: 
+
+   Item #: 10
+   Job name: NL_DB_ACS_DMT_D1_SEG
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:02:21
+   Description: 
+
+   Item #: 11
+   Job name: NL_DB_ACS_DMT_D1_WL_ABL
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:08
+   On date: 11-12-2020
+   Elapsed time: 00:02:33
+   Description: 
+
+   Item #: 12
+   Job name: NL_DB_ACS_DMT_D1_WRTOF_RSN
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:02:38
+   Description: 
+
+   Item #: 13
+   Job name: NL_DB_ACS_DMT_D1_RPTPHASE
+   Status: Finished
+   Started: 08:05
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:02:47
+   Description: 
+
+   Item #: 14
+   Job name: NL_DB_ACS_DMT_D2_TRTM_POS_D
+   Status: Finished
+   Started: 08:04
+   On date: 11-12-2020
+   Last ran: 08:06
+   On date: 11-12-2020
+   Elapsed time: 00:02:50
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 15
+   Job name: NL_DB_ACS_DMT_D2_TEAM_EMP
+   Status: Finished
+   Started: 08:03
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:03:28
+   Description: 
+
+   Item #: 16
+   Job name: NL_DB_ACS_DMT_D1_DATE
+   Status: Finished
+   Started: 08:03
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:03:39
+   Description: 
+
+   Item #: 17
+   Job name: NL_DB_ACS_DMT_D1_WRK_LIST
+   Status: Finished
+   Started: 08:02
+   On date: 11-12-2020
+   Last ran: 08:07
+   On date: 11-12-2020
+   Elapsed time: 00:04:25
+   Description: 
+
+   Item #: 18
+   Job name: NL_DB_ACS_DMT_D1_RTE_D
+   Status: Finished
+   Started: 07:59
+   On date: 11-12-2020
+   Last ran: 08:05
+   On date: 11-12-2020
+   Elapsed time: 00:05:34
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 19
+   Job name: NL_DB_ACS_DMT_D1_ARS_CAUS_D
+   Status: Finished
+   Started: 07:59
+   On date: 11-12-2020
+   Last ran: 08:05
+   On date: 11-12-2020
+   Elapsed time: 00:05:13
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 20
+   Job name: NL_DB_ACS_DMT_D1_EV_D
+   Status: Finished
+   Started: 07:59
+   On date: 11-12-2020
+   Last ran: 08:04
+   On date: 11-12-2020
+   Elapsed time: 00:05:37
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 21
+   Job name: NL_DB_ACS_DMT_D1_CMM_CDR_D
+   Status: Finished
+   Started: 07:58
+   On date: 11-12-2020
+   Last ran: 08:04
+   On date: 11-12-2020
+   Elapsed time: 00:06:16
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 22
+   Job name: NL_DB_ACS_DMT_D1_SEG_D
+   Status: Finished
+   Started: 07:58
+   On date: 11-12-2020
+   Last ran: 08:02
+   On date: 11-12-2020
+   Elapsed time: 00:04:24
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 23
+   Job name: NL_DB_ACS_DMT_D1_COLL_AGNC_D
+   Status: Finished
+   Started: 07:58
+   On date: 11-12-2020
+   Last ran: 08:02
+   On date: 11-12-2020
+   Elapsed time: 00:04:29
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 24
+   Job name: NL_DB_ACS_DMT_D1_WRTOF_RSN_D
+   Status: Finished
+   Started: 07:58
+   On date: 11-12-2020
+   Last ran: 08:02
+   On date: 11-12-2020
+   Elapsed time: 00:04:18
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 25
+   Job name: NL_DB_ACS_DMT_D1_WL_ABL_D
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 08:02
+   On date: 11-12-2020
+   Elapsed time: 00:04:11
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 26
+   Job name: NL_DB_ACS_DMT_D1_WRK_LIST_D
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 07:59
+   On date: 11-12-2020
+   Elapsed time: 00:02:06
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 27
+   Job name: NL_DB_ACS_DMT_D1_RPTPHASE_D
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 08:02
+   On date: 11-12-2020
+   Elapsed time: 00:04:19
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 28
+   Job name: NL_DB_ACS_DMT_D1_DATE_D
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 08:00
+   On date: 11-12-2020
+   Elapsed time: 00:02:10
+   Description: Load CDM_DMT_LOV_D
+
+   Item #: 29
+   Job name: NL_DB_ACS_DMT_D2_TRTM_POS_Delete
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 07:59
+   On date: 11-12-2020
+   Elapsed time: 00:02:09
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 30
+   Job name: NL_DB_ACS_DMT_D4_PD_AGRM
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 07:59
+   On date: 11-12-2020
+   Elapsed time: 00:02:07
+   Description: 
+
+   Item #: 31
+   Job name: NL_DB_ACS_DMT_D2_TEAM_EMP_D
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 07:59
+   On date: 11-12-2020
+   Elapsed time: 00:02:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 32
+   Job name: NL_DB_ACS_DMT_D0_ACTOR
+   Status: Finished
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 07:59
+   On date: 11-12-2020
+   Elapsed time: 00:02:05
+   Description: 
+
+   Item #: 33
+   Job name: NL_DB_ACS_SQ_LD_DMT_STAR_SHARED_DIM
+   Status: Running/Restartable
+   Started: 07:57
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 34
+   Job name: NL_DB_ACS_PRP_PD_AGRM_TRTM_POS_CODES_CHK
+   Status: Finished
+   Started: 07:54
+   On date: 11-12-2020
+   Last ran: 07:57
+   On date: 11-12-2020
+   Elapsed time: 00:02:52
+   Description: Load acct with trtmt codes
+
+   Item #: 35
+   Job name: NL_DB_ACS_PRP_D1_COLL_AGNC
+   Status: Finished
+   Started: 07:47
+   On date: 11-12-2020
+   Last ran: 07:52
+   On date: 11-12-2020
+   Elapsed time: 00:05:03
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 36
+   Job name: NL_DB_ACS_PRP_D1_ARS_CAUS
+   Status: Finished
+   Started: 07:45
+   On date: 11-12-2020
+   Last ran: 07:51
+   On date: 11-12-2020
+   Elapsed time: 00:06:30
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 37
+   Job name: NL_DB_ACS_PRP_D1_EV
+   Status: Finished
+   Started: 07:41
+   On date: 11-12-2020
+   Last ran: 07:49
+   On date: 11-12-2020
+   Elapsed time: 00:07:54
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 38
+   Job name: NL_DB_ACS_PRP_D1_WL_ABL
+   Status: Finished
+   Started: 07:40
+   On date: 11-12-2020
+   Last ran: 07:48
+   On date: 11-12-2020
+   Elapsed time: 00:08:20
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 39
+   Job name: NL_DB_ACS_PRP_PD_AGRM_TRTM_POS_CODES_Opt
+   Status: Finished
+   Started: 07:40
+   On date: 11-12-2020
+   Last ran: 07:54
+   On date: 11-12-2020
+   Elapsed time: 00:14:21
+   Description: Load acct with trtmt codes
+
+   Item #: 40
+   Job name: NL_DB_ACS_PRP_D1_RTE
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:48
+   On date: 11-12-2020
+   Elapsed time: 00:08:54
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 41
+   Job name: NL_DB_ACS_PRP_D1_SEG
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:48
+   On date: 11-12-2020
+   Elapsed time: 00:08:58
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 42
+   Job name: NL_DB_ACS_PRP_D1_WRTOF_RSN
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:48
+   On date: 11-12-2020
+   Elapsed time: 00:08:51
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 43
+   Job name: NL_DB_ACS_PRP_PD_AGRM_RPT_PRTFL
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:51
+   On date: 11-12-2020
+   Elapsed time: 00:11:31
+   Description: Load acct with trtmt codes
+
+   Item #: 44
+   Job name: NL_DB_ACS_PRP_D1_RPTPHASE
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:47
+   On date: 11-12-2020
+   Elapsed time: 00:08:17
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 45
+   Job name: NL_DB_ACS_PRP_D1_WRK_LIST
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:47
+   On date: 11-12-2020
+   Elapsed time: 00:07:56
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 46
+   Job name: NL_DB_ACS_PRP_D1_CMM_CDR
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:47
+   On date: 11-12-2020
+   Elapsed time: 00:07:42
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 47
+   Job name: NL_DB_ACS_PRP_D1_DATE
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:48
+   On date: 11-12-2020
+   Elapsed time: 00:08:53
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 48
+   Job name: NL_DB_ACS_PRP_D4_PD_AGRM
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:52
+   On date: 11-12-2020
+   Elapsed time: 00:13:19
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 49
+   Job name: NL_DB_ACS_PRP_D2_TEAM_EMP
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:47
+   On date: 11-12-2020
+   Elapsed time: 00:07:41
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 50
+   Job name: NL_DB_ACS_PRP_D1_ACTOR
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:46
+   On date: 11-12-2020
+   Elapsed time: 00:07:24
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 51
+   Job name: NL_DB_ACS_SQ_LD_PRP_STAR_SHARED_DIM
+   Status: Finished
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 07:57
+   On date: 11-12-2020
+   Elapsed time: 00:18:16
+   Description: 
+
+   Item #: 52
+   Job name: NL_DB_TLM_STAR_SHARED_DIM_MAIN
+   Status: Running/Restartable
+   Started: 07:39
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Description NL_DB_TLM_STAR_SHARED_DIM_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load the shared DM and FCT tables
+
+   Item #: 53
+   Job name: XCO_JP_Start_Job_Run.16076687310217610155000001712687330170152033637390
+   Status: Finished
+   Started: 07:38
+   On date: 11-12-2020
+   Last ran: 07:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:27
+   Description: Set the status of the run of the flow.
+
+   Item #: 54
+   Job name: XCO_SQ_Start_Job.16076687310217610155000001712687330170152033637390
+   Status: Running/Restartable
+   Started: 07:38
+   On date: 11-12-2020
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 55
+   Job name: XCO_JP_Update_Job_Run.16076559720821290677000001249371662603333158115520
+   Status: Finished
+   Started: 04:30
+   On date: 11-12-2020
+   Last ran: 04:31
+   On date: 11-12-2020
+   Elapsed time: 00:01:10
+   Description: Set the status of the run of the flow.
+
+   Item #: 56
+   Job name: XCO_JP_Log_Err.16076559720821290677000001249371662603333158115520
+   Status: Finished
+   Started: 04:29
+   On date: 11-12-2020
+   Last ran: 04:29
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 57
+   Job name: NL_DB_ACS_DMT_FP_KDIF_ACT_RGB_NEW_IN_ARRS
+   Status: Aborted
+   Started: 04:11
+   On date: 11-12-2020
+   Last ran: 04:29
+   On date: 11-12-2020
+   Elapsed time: 00:17:49
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 58
+   Job name: NL_DB_TLM_FT_MAIN_KDIFU_D7
+   Status: Aborted/Restartable
+   Started: 04:09
+   On date: 11-12-2020
+   Last ran: 04:29
+   On date: 11-12-2020
+   Elapsed time: 00:19:57
+   Description: Description NL_DB_KDIFU_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load the Data Features :                  Savings, Revidivist + Debt arrearreason
+
+   Item #: 59
+   Job name: XCO_JP_Start_Job_Run.16076559720821290677000001249371662603333158115520
+   Status: Finished
+   Started: 04:06
+   On date: 11-12-2020
+   Last ran: 04:09
+   On date: 11-12-2020
+   Elapsed time: 00:02:58
+   Description: Set the status of the run of the flow.
+
+   Item #: 60
+   Job name: XCO_SQ_Start_Job.16076559720821290677000001249371662603333158115520
+   Status: Aborted/Restartable
+   Started: 04:06
+   On date: 11-12-2020
+   Last ran: 04:31
+   On date: 11-12-2020
+   Elapsed time: 00:25:18
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 61
+   Job name: XCO_JP_Update_Job_Run.16076074340460764101000000268837248483582374005450
+   Status: Finished
+   Started: 14:45
+   On date: 10-12-2020
+   Last ran: 14:45
+   On date: 10-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 62
+   Job name: NL_DB_ACS_DMT_FP_CST_UNSEC_SEGM_TRN_DATA
+   Status: Finished
+   Started: 14:43
+   On date: 10-12-2020
+   Last ran: 14:45
+   On date: 10-12-2020
+   Elapsed time: 00:02:29
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 63
+   Job name: NL_DB_ACS_DMT_FP_CST_UNSEC_SGM_FTRS
+   Status: Finished
+   Started: 14:41
+   On date: 10-12-2020
+   Last ran: 14:43
+   On date: 10-12-2020
+   Elapsed time: 00:01:45
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 64
+   Job name: NL_DB_ACS_DMT_FP_CST_LGCY_ORI_SEGM_FTRS
+   Status: Finished
+   Started: 14:40
+   On date: 10-12-2020
+   Last ran: 14:41
+   On date: 10-12-2020
+   Elapsed time: 00:00:13
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 65
+   Job name: NL_DB_ACS_DMT_FP_CST_UNSEC_MANAVY
+   Status: Finished
+   Started: 14:40
+   On date: 10-12-2020
+   Last ran: 14:41
+   On date: 10-12-2020
+   Elapsed time: 00:00:33
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 66
+   Job name: NL_DB_ACS_SQ_LD_DMT_UNSEC_SGM_FTRS
+   Status: Finished
+   Started: 14:40
+   On date: 10-12-2020
+   Last ran: 14:45
+   On date: 10-12-2020
+   Elapsed time: 00:04:50
+   Description: 
+
+   Item #: 67
+   Job name: NL_DB_ACS_PRP_FP_CST_UNSEC_MANAVY
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:40
+   On date: 10-12-2020
+   Elapsed time: 00:03:07
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 68
+   Job name: NL_DB_ACS_SQ_LD_PRP_CST_UNSEC_MANAVY
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:40
+   On date: 10-12-2020
+   Elapsed time: 00:03:10
+   Description: 
+
+   Item #: 69
+   Job name: NL_DB_TLM_FT_MAIN
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:45
+   On date: 10-12-2020
+   Elapsed time: 00:08:08
+   Description: Description NL_DB_TLM_FT_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load the Data Features tables
+
+   Item #: 70
+   Job name: XCO_JP_Start_Job_Run.16076074340460764101000000268837248483582374005450
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:37
+   On date: 10-12-2020
+   Elapsed time: 00:00:16
+   Description: Set the status of the run of the flow.
+
+   Item #: 71
+   Job name: XCO_SQ_Start_Job.16076074340460764101000000268837248483582374005450
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:45
+   On date: 10-12-2020
+   Elapsed time: 00:08:38
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 72
+   Job name: XCO_JP_Update_Job_Run.16076043330655440464000002388161601157599749251390
+   Status: Finished
+   Started: 14:37
+   On date: 10-12-2020
+   Last ran: 14:37
+   On date: 10-12-2020
+   Elapsed time: 00:00:10
+   Description: Set the status of the run of the flow.
+
+   Item #: 73
+   Job name: NL_DB_ACS_DMT_FP_AC_RMRTG_DBT_AGRM
+   Status: Finished
+   Started: 14:33
+   On date: 10-12-2020
+   Last ran: 14:36
+   On date: 10-12-2020
+   Elapsed time: 00:03:01
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 74
+   Job name: NL_DB_ACS_DMT_FP_PWC_CRB_SALDO_DIFF
+   Status: Finished
+   Started: 14:33
+   On date: 10-12-2020
+   Last ran: 14:35
+   On date: 10-12-2020
+   Elapsed time: 00:01:35
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 75
+   Job name: NL_DB_ACS_DMT_FP_CST_GNC_SEG_FTRS_OUT
+   Status: Finished
+   Started: 14:33
+   On date: 10-12-2020
+   Last ran: 14:33
+   On date: 10-12-2020
+   Elapsed time: 00:00:17
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 76
+   Job name: NL_DB_ACS_DMT_FP_CST_GNC_SEG_FTRS
+   Status: Finished
+   Started: 14:21
+   On date: 10-12-2020
+   Last ran: 14:32
+   On date: 10-12-2020
+   Elapsed time: 00:11:09
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 77
+   Job name: NL_DB_ACS_DMT_FA_NHG_CLAIMS
+   Status: Finished
+   Started: 14:21
+   On date: 10-12-2020
+   Last ran: 14:25
+   On date: 10-12-2020
+   Elapsed time: 00:03:53
+   Description: 
+
+   Item #: 78
+   Job name: NL_DB_ACS_DMT_FP_PYMT_AR
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:32
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 79
+   Job name: NL_DB_ACS_DMT_FP_IN_TRTM_PRTFL_EOM
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:27
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 80
+   Job name: NL_DB_ACS_DMT_FP_CURE_RATE_EOM
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:34
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 81
+   Job name: NL_DB_ACS_DMT_FT_PYMT_AR_EOM
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:54
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 82
+   Job name: NL_DB_ACS_DMT_FP_UNSEC_CST_IN_TRTM_DAILY
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:30
+   On date: 10-12-2020
+   Elapsed time: 00:10:20
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 83
+   Job name: NL_DB_ACS_DMT_FF_CMM_CDR_R2
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:41
+   Description: 
+
+   Item #: 84
+   Job name: NL_DB_ACS_DMT_FP_IN_TRTM_POS
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:26
+   On date: 10-12-2020
+   Elapsed time: 00:05:57
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 85
+   Job name: NL_DB_ACS_DMT_FT_WRTOF
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:21
+   On date: 10-12-2020
+   Elapsed time: 00:00:38
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 86
+   Job name: NL_DB_ACS_DMT_FA_NHG_CLAIMS_D
+   Status: Finished
+   Started: 14:20
+   On date: 10-12-2020
+   Last ran: 14:20
+   On date: 10-12-2020
+   Elapsed time: 00:00:20
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 87
+   Job name: NL_DB_ACS_DMT_FA_DCA_ALCT
+   Status: Finished
+   Started: 14:19
+   On date: 10-12-2020
+   Last ran: 14:20
+   On date: 10-12-2020
+   Elapsed time: 00:00:39
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 88
+   Job name: NL_DB_ACS_DMT_FP_TFRD_CNSMR_LOAN
+   Status: Finished
+   Started: 14:19
+   On date: 10-12-2020
+   Last ran: 14:20
+   On date: 10-12-2020
+   Elapsed time: 00:00:50
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 89
+   Job name: NL_DB_ACS_DMT_FF_CMM_CDR
+   Status: Finished
+   Started: 14:19
+   On date: 10-12-2020
+   Last ran: 14:20
+   On date: 10-12-2020
+   Elapsed time: 00:01:06
+   Description: 
+
+   Item #: 90
+   Job name: NL_DB_ACS_DMT_FP_IN_TRTM_PRTFL
+   Status: Finished
+   Started: 14:19
+   On date: 10-12-2020
+   Last ran: 14:20
+   On date: 10-12-2020
+   Elapsed time: 00:01:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 91
+   Job name: NL_DB_ACS_SQ_LD_DMT_STAR_SHARED_FCT
+   Status: Finished
+   Started: 14:19
+   On date: 10-12-2020
+   Last ran: 14:37
+   On date: 10-12-2020
+   Elapsed time: 00:17:42
+   Description: 
+
+   Item #: 92
+   Job name: NL_DB_ACS_PRP_FF_CMM_CDR_UPD_STATUS_R2
+   Status: Finished
+   Started: 13:56
+   On date: 10-12-2020
+   Last ran: 14:01
+   On date: 10-12-2020
+   Elapsed time: 00:04:45
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 93
+   Job name: NL_DB_ACS_PRP_FP_IN_TRTM_PRTFL_vanuit_preprp
+   Status: Finished
+   Started: 13:55
+   On date: 10-12-2020
+   Last ran: 14:01
+   On date: 10-12-2020
+   Elapsed time: 00:05:50
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 94
+   Job name: NL_DB_ACS_PRP_FF_CMM_CDR_UPD_STATUS
+   Status: Finished
+   Started: 13:55
+   On date: 10-12-2020
+   Last ran: 13:59
+   On date: 10-12-2020
+   Elapsed time: 00:04:08
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 95
+   Job name: NL_DB_ACS_PRP_PWC_CRB_SALDO_DIFF
+   Status: Finished
+   Started: 13:48
+   On date: 10-12-2020
+   Last ran: 14:19
+   On date: 10-12-2020
+   Elapsed time: 00:30:35
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 96
+   Job name: NL_DB_ACS_PRP_FF_CMM_CDR_NEW_PLANS_R2
+   Status: Finished
+   Started: 13:47
+   On date: 10-12-2020
+   Last ran: 13:53
+   On date: 10-12-2020
+   Elapsed time: 00:06:14
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 97
+   Job name: NL_DB_ACS_PRP_FP_PYMT_AR
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:53
+   On date: 10-12-2020
+   Elapsed time: 00:06:46
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 98
+   Job name: NL_DB_ACS_PRP_FA_DCA_ALCT
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:51
+   On date: 10-12-2020
+   Elapsed time: 00:04:49
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 99
+   Job name: NL_DB_ACS_PRE_FP_IN_TRTM_PRTFL_preprp
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:54
+   On date: 10-12-2020
+   Elapsed time: 00:07:09
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 100
+   Job name: NL_DB_ACS_PRP_FA_NHG_CLAIMS
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:52
+   On date: 10-12-2020
+   Elapsed time: 00:06:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 101
+   Job name: NL_DB_ACS_PRP_FT_WRTOF
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:55
+   On date: 10-12-2020
+   Elapsed time: 00:08:22
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 102
+   Job name: NL_DB_ACS_PRP_FP_TFRD_CNSMR_LOAN
+   Status: Finished (see log)
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:59
+   On date: 10-12-2020
+   Elapsed time: 00:12:42
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 103
+   Job name: NL_DB_ACS_PRP_FP_IN_TRTM_POS
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:57
+   On date: 10-12-2020
+   Elapsed time: 00:10:45
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 104
+   Job name: NL_DB_ACS_PRP_FF_CMM_CDR_NEW_PLANS
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 13:48
+   On date: 10-12-2020
+   Elapsed time: 00:01:41
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 105
+   Job name: NL_DB_ACS_SQ_LD_PRP_STAR_SHARED_FCT
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 14:19
+   On date: 10-12-2020
+   Elapsed time: 00:32:30
+   Description: 
+
+   Item #: 106
+   Job name: NL_DB_TLM_STAR_SHARED_FCT_MAIN
+   Status: Finished
+   Started: 13:46
+   On date: 10-12-2020
+   Last ran: 14:37
+   On date: 10-12-2020
+   Elapsed time: 00:50:17
+   Description: Description NL_DB_TLM_STAR_SHARED_FCT_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load the shared DM and FCT tables
+
+   Item #: 107
+   Job name: XCO_JP_Start_Job_Run.16076043330655440464000002388161601157599749251390
+   Status: Finished
+   Started: 13:45
+   On date: 10-12-2020
+   Last ran: 13:46
+   On date: 10-12-2020
+   Elapsed time: 00:00:53
+   Description: Set the status of the run of the flow.
+
+   Item #: 108
+   Job name: XCO_SQ_Start_Job.16076043330655440464000002388161601157599749251390
+   Status: Finished
+   Started: 13:45
+   On date: 10-12-2020
+   Last ran: 14:37
+   On date: 10-12-2020
+   Elapsed time: 00:51:39
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 109
+   Job name: XCO_JP_Update_Job_Run.16076038570263615647000001169449882792645282173040
+   Status: Finished
+   Started: 13:45
+   On date: 10-12-2020
+   Last ran: 13:45
+   On date: 10-12-2020
+   Elapsed time: 00:00:20
+   Description: Set the status of the run of the flow.
+
+   Item #: 110
+   Job name: NL_DB_ACS_DMT_D1_CYC
+   Status: Finished
+   Started: 13:44
+   On date: 10-12-2020
+   Last ran: 13:45
+   On date: 10-12-2020
+   Elapsed time: 00:00:25
+   Description: 
+
+   Item #: 111
+   Job name: NL_DB_ACS_DMT_D1_STRTG
+   Status: Finished
+   Started: 13:44
+   On date: 10-12-2020
+   Last ran: 13:45
+   On date: 10-12-2020
+   Elapsed time: 00:00:24
+   Description: 
+
+   Item #: 112
+   Job name: NL_DB_ACS_DMT_D1_TRTM_PHASE
+   Status: Finished
+   Started: 13:44
+   On date: 10-12-2020
+   Last ran: 13:45
+   On date: 10-12-2020
+   Elapsed time: 00:00:23
+   Description: 
+
+   Item #: 113
+   Job name: XCO_JP_Start_Job_Run.16076038570263615647000001169449882792645282173040
+   Status: Finished
+   Started: 13:37
+   On date: 10-12-2020
+   Last ran: 13:37
+   On date: 10-12-2020
+   Elapsed time: 00:00:16
+   Description: Set the status of the run of the flow.
+
+   Item #: 114
+   Job name: XCO_SQ_Start_Job.16076038570263615647000001169449882792645282173040
+   Status: Finished
+   Started: 13:37
+   On date: 10-12-2020
+   Last ran: 13:45
+   On date: 10-12-2020
+   Elapsed time: 00:07:55
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 115
+   Job name: XCO_JP_Update_Job_Run.16075694080565201703000002457741785334489229356530
+   Status: Finished
+   Started: 04:37
+   On date: 10-12-2020
+   Last ran: 04:39
+   On date: 10-12-2020
+   Elapsed time: 00:01:24
+   Description: Set the status of the run of the flow.
+
+   Item #: 116
+   Job name: NL_DB_ACS_DMT_FP_KDIF_ACCT_IN_ARRS_OUT
+   Status: Finished
+   Started: 04:37
+   On date: 10-12-2020
+   Last ran: 04:37
+   On date: 10-12-2020
+   Elapsed time: 00:00:16
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 117
+   Job name: NL_DB_ACS_DMT_FP_KDIF_CUST_IN_ARRS_OUT
+   Status: Finished
+   Started: 04:37
+   On date: 10-12-2020
+   Last ran: 04:37
+   On date: 10-12-2020
+   Elapsed time: 00:00:18
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 118
+   Job name: NL_DB_ACS_DMT_FP_KDIF_CUST_IN_ARRS
+   Status: Finished
+   Started: 04:34
+   On date: 10-12-2020
+   Last ran: 04:37
+   On date: 10-12-2020
+   Elapsed time: 00:02:35
+   Description: Load KDIF_PRP_CUST_IN_ARRS_SEGMENT
+
+   Item #: 119
+   Job name: NL_DB_ACS_DMT_FP_KDIF_ACCT_IN_ARRS
+   Status: Finished
+   Started: 04:25
+   On date: 10-12-2020
+   Last ran: 04:34
+   On date: 10-12-2020
+   Elapsed time: 00:09:10
+   Description: Load KDIF_ACCT_PRP_ACCT_IN_ARRS_SEGMENT
+
+   Item #: 120
+   Job name: XCO_JP_Start_Job_Run.16075694080565201703000002457741785334489229356530
+   Status: Finished
+   Started: 04:03
+   On date: 10-12-2020
+   Last ran: 04:03
+   On date: 10-12-2020
+   Elapsed time: 00:00:02
+   Description: Set the status of the run of the flow.
+
+   Item #: 121
+   Job name: XCO_SQ_Start_Job.16075694080565201703000002457741785334489229356530
+   Status: Finished
+   Started: 04:03
+   On date: 10-12-2020
+   Last ran: 04:39
+   On date: 10-12-2020
+   Elapsed time: 00:35:55
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 122
+   Job name: XCO_JP_Update_Job_Run.16075312270323549061000002704455510387842504521030
+   Status: Finished
+   Started: 17:40
+   On date: 9-12-2020
+   Last ran: 17:41
+   On date: 9-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 123
+   Job name: XCO_JP_Start_Job_Run.16075312270323549061000002704455510387842504521030
+   Status: Finished
+   Started: 17:27
+   On date: 9-12-2020
+   Last ran: 17:27
+   On date: 9-12-2020
+   Elapsed time: 00:00:20
+   Description: Set the status of the run of the flow.
+
+   Item #: 124
+   Job name: XCO_SQ_Start_Job.16075312270323549061000002704455510387842504521030
+   Status: Finished
+   Started: 17:27
+   On date: 9-12-2020
+   Last ran: 17:41
+   On date: 9-12-2020
+   Elapsed time: 00:14:02
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 125
+   Job name: XCO_JP_Update_Job_Run.16075280140270800989000001139839579047452792456110
+   Status: Finished
+   Started: 17:26
+   On date: 9-12-2020
+   Last ran: 17:27
+   On date: 9-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 126
+   Job name: XCO_JP_Start_Job_Run.16075280140270800989000001139839579047452792456110
+   Status: Finished
+   Started: 16:33
+   On date: 9-12-2020
+   Last ran: 16:33
+   On date: 9-12-2020
+   Elapsed time: 00:00:17
+   Description: Set the status of the run of the flow.
+
+   Item #: 127
+   Job name: XCO_SQ_Start_Job.16075280140270800989000001139839579047452792456110
+   Status: Finished
+   Started: 16:33
+   On date: 9-12-2020
+   Last ran: 17:27
+   On date: 9-12-2020
+   Elapsed time: 00:53:32
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 128
+   Job name: XCO_JP_Update_Job_Run.16075260720812830714000002179981984513445861438140
+   Status: Finished
+   Started: 16:33
+   On date: 9-12-2020
+   Last ran: 16:33
+   On date: 9-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 129
+   Job name: XCO_JP_Start_Job_Run.16075260720812830714000002179981984513445861438140
+   Status: Finished
+   Started: 16:01
+   On date: 9-12-2020
+   Last ran: 16:01
+   On date: 9-12-2020
+   Elapsed time: 00:00:20
+   Description: Set the status of the run of the flow.
+
+   Item #: 130
+   Job name: XCO_SQ_Start_Job.16075260720812830714000002179981984513445861438140
+   Status: Finished
+   Started: 16:01
+   On date: 9-12-2020
+   Last ran: 16:33
+   On date: 9-12-2020
+   Elapsed time: 00:32:20
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 131
+   Job name: XCO_JP_Update_Job_Run.16074858340010380477000002998297189341048307234000
+   Status: Finished
+   Started: 05:15
+   On date: 9-12-2020
+   Last ran: 05:15
+   On date: 9-12-2020
+   Elapsed time: 00:00:11
+   Description: Set the status of the run of the flow.
+
+   Item #: 132
+   Job name: XCO_JP_Start_Job_Run.16074858340010380477000002998297189341048307234000
+   Status: Finished
+   Started: 04:50
+   On date: 9-12-2020
+   Last ran: 04:50
+   On date: 9-12-2020
+   Elapsed time: 00:00:20
+   Description: Set the status of the run of the flow.
+
+   Item #: 133
+   Job name: XCO_SQ_Start_Job.16074858340010380477000002998297189341048307234000
+   Status: Finished
+   Started: 04:50
+   On date: 9-12-2020
+   Last ran: 05:15
+   On date: 9-12-2020
+   Elapsed time: 00:25:10
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 134
+   Job name: XCO_JP_Update_Job_Run.16074134710097475802000001751769650564492667200140
+   Status: Finished
+   Started: 08:50
+   On date: 8-12-2020
+   Last ran: 08:50
+   On date: 8-12-2020
+   Elapsed time: 00:00:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 135
+   Job name: XCO_JP_Start_Job_Run.16074134710097475802000001751769650564492667200140
+   Status: Finished
+   Started: 08:44
+   On date: 8-12-2020
+   Last ran: 08:46
+   On date: 8-12-2020
+   Elapsed time: 00:02:13
+   Description: Set the status of the run of the flow.
+
+   Item #: 136
+   Job name: XCO_SQ_Start_Job.16074134710097475802000001751769650564492667200140
+   Status: Finished
+   Started: 08:44
+   On date: 8-12-2020
+   Last ran: 08:50
+   On date: 8-12-2020
+   Elapsed time: 00:06:14
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 137
+   Job name: XCO_JP_Update_Job_Run.16074118210884120103000002378628106246818177721240
+   Status: Finished
+   Started: 08:43
+   On date: 8-12-2020
+   Last ran: 08:44
+   On date: 8-12-2020
+   Elapsed time: 00:01:11
+   Description: Set the status of the run of the flow.
+
+   Item #: 138
+   Job name: XCO_JP_Start_Job_Run.16074118210884120103000002378628106246818177721240
+   Status: Finished
+   Started: 08:17
+   On date: 8-12-2020
+   Last ran: 08:17
+   On date: 8-12-2020
+   Elapsed time: 00:00:30
+   Description: Set the status of the run of the flow.
+
+   Item #: 139
+   Job name: XCO_SQ_Start_Job.16074118210884120103000002378628106246818177721240
+   Status: Finished
+   Started: 08:17
+   On date: 8-12-2020
+   Last ran: 08:44
+   On date: 8-12-2020
+   Elapsed time: 00:27:28
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 140
+   Job name: XCO_JP_Update_Job_Run.16074101920010213714000000222872311337182477395250
+   Status: Finished
+   Started: 08:16
+   On date: 8-12-2020
+   Last ran: 08:16
+   On date: 8-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 141
+   Job name: XCO_JP_Start_Job_Run.16074101920010213714000000222872311337182477395250
+   Status: Finished
+   Started: 07:49
+   On date: 8-12-2020
+   Last ran: 07:50
+   On date: 8-12-2020
+   Elapsed time: 00:00:15
+   Description: Set the status of the run of the flow.
+
+   Item #: 142
+   Job name: XCO_SQ_Start_Job.16074101920010213714000000222872311337182477395250
+   Status: Finished
+   Started: 07:49
+   On date: 8-12-2020
+   Last ran: 08:17
+   On date: 8-12-2020
+   Elapsed time: 00:27:08
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 143
+   Job name: XCO_JP_Update_Job_Run.16073951320266729724000001051115054777851419098410
+   Status: Finished
+   Started: 03:59
+   On date: 8-12-2020
+   Last ran: 04:00
+   On date: 8-12-2020
+   Elapsed time: 00:01:06
+   Description: Set the status of the run of the flow.
+
+   Item #: 144
+   Job name: XCO_JP_Start_Job_Run.16073951320266729724000001051115054777851419098410
+   Status: Finished
+   Started: 03:38
+   On date: 8-12-2020
+   Last ran: 03:39
+   On date: 8-12-2020
+   Elapsed time: 00:00:35
+   Description: Set the status of the run of the flow.
+
+   Item #: 145
+   Job name: XCO_SQ_Start_Job.16073951320266729724000001051115054777851419098410
+   Status: Finished
+   Started: 03:38
+   On date: 8-12-2020
+   Last ran: 04:01
+   On date: 8-12-2020
+   Elapsed time: 00:22:08
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 146
+   Job name: XCO_JP_Update_Job_Run.16073315370465541926000002448465747280850859249980
+   Status: Finished
+   Started: 10:11
+   On date: 7-12-2020
+   Last ran: 10:12
+   On date: 7-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 147
+   Job name: XCO_JP_Start_Job_Run.16073315370465541926000002448465747280850859249980
+   Status: Finished
+   Started: 09:58
+   On date: 7-12-2020
+   Last ran: 09:59
+   On date: 7-12-2020
+   Elapsed time: 00:00:16
+   Description: Set the status of the run of the flow.
+
+   Item #: 148
+   Job name: XCO_SQ_Start_Job.16073315370465541926000002448465747280850859249980
+   Status: Finished
+   Started: 09:58
+   On date: 7-12-2020
+   Last ran: 10:12
+   On date: 7-12-2020
+   Elapsed time: 00:13:11
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 149
+   Job name: XCO_JP_Update_Job_Run.16073309970006674199000001796754616150790306326920
+   Status: Finished
+   Started: 09:58
+   On date: 7-12-2020
+   Last ran: 09:58
+   On date: 7-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 150
+   Job name: XCO_JP_Start_Job_Run.16073309970006674199000001796754616150790306326920
+   Status: Finished
+   Started: 09:49
+   On date: 7-12-2020
+   Last ran: 09:50
+   On date: 7-12-2020
+   Elapsed time: 00:00:54
+   Description: Set the status of the run of the flow.
+
+   Item #: 151
+   Job name: XCO_SQ_Start_Job.16073309970006674199000001796754616150790306326920
+   Status: Finished
+   Started: 09:49
+   On date: 7-12-2020
+   Last ran: 09:58
+   On date: 7-12-2020
+   Elapsed time: 00:08:59
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 152
+   Job name: XCO_JP_Update_Job_Run.16073307900121653356000000849282934578147028484700
+   Status: Finished
+   Started: 09:49
+   On date: 7-12-2020
+   Last ran: 09:49
+   On date: 7-12-2020
+   Elapsed time: 00:00:15
+   Description: Set the status of the run of the flow.
+
+   Item #: 153
+   Job name: XCO_JP_Start_Job_Run.16073307900121653356000000849282934578147028484700
+   Status: Finished
+   Started: 09:46
+   On date: 7-12-2020
+   Last ran: 09:47
+   On date: 7-12-2020
+   Elapsed time: 00:00:41
+   Description: Set the status of the run of the flow.
+
+   Item #: 154
+   Job name: XCO_SQ_Start_Job.16073307900121653356000000849282934578147028484700
+   Status: Finished
+   Started: 09:46
+   On date: 7-12-2020
+   Last ran: 09:49
+   On date: 7-12-2020
+   Elapsed time: 00:03:26
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 155
+   Job name: XCO_JP_Update_Job_Run.16073257590981293215000001713284251763422649986330
+   Status: Finished
+   Started: 08:31
+   On date: 7-12-2020
+   Last ran: 08:32
+   On date: 7-12-2020
+   Elapsed time: 00:00:21
+   Description: Set the status of the run of the flow.
+
+   Item #: 156
+   Job name: XCO_JP_Start_Job_Run.16073257590981293215000001713284251763422649986330
+   Status: Finished
+   Started: 08:22
+   On date: 7-12-2020
+   Last ran: 08:23
+   On date: 7-12-2020
+   Elapsed time: 00:00:22
+   Description: Set the status of the run of the flow.
+
+   Item #: 157
+   Job name: XCO_SQ_Start_Job.16073257590981293215000001713284251763422649986330
+   Status: Finished
+   Started: 08:22
+   On date: 7-12-2020
+   Last ran: 08:32
+   On date: 7-12-2020
+   Elapsed time: 00:09:22
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 158
+   Job name: XCO_JP_Update_Job_Run.16073255190678747018000000635497245450861285663700
+   Status: Finished
+   Started: 08:22
+   On date: 7-12-2020
+   Last ran: 08:22
+   On date: 7-12-2020
+   Elapsed time: 00:00:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 159
+   Job name: XCO_JP_Start_Job_Run.16073255190678747018000000635497245450861285663700
+   Status: Finished
+   Started: 08:18
+   On date: 7-12-2020
+   Last ran: 08:19
+   On date: 7-12-2020
+   Elapsed time: 00:00:48
+   Description: Set the status of the run of the flow.
+
+   Item #: 160
+   Job name: XCO_SQ_Start_Job.16073255190678747018000000635497245450861285663700
+   Status: Finished
+   Started: 08:18
+   On date: 7-12-2020
+   Last ran: 08:22
+   On date: 7-12-2020
+   Elapsed time: 00:03:59
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 161
+   Job name: XCO_JP_Update_Job_Run.16073078760794709502000001500445322290360215260320
+   Status: Finished
+   Started: 03:47
+   On date: 7-12-2020
+   Last ran: 03:49
+   On date: 7-12-2020
+   Elapsed time: 00:01:17
+   Description: Set the status of the run of the flow.
+
+   Item #: 162
+   Job name: XCO_JP_Start_Job_Run.16073078760794709502000001500445322290360215260320
+   Status: Finished
+   Started: 03:24
+   On date: 7-12-2020
+   Last ran: 03:27
+   On date: 7-12-2020
+   Elapsed time: 00:03:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 163
+   Job name: XCO_SQ_Start_Job.16073078760794709502000001500445322290360215260320
+   Status: Finished
+   Started: 03:24
+   On date: 7-12-2020
+   Last ran: 03:49
+   On date: 7-12-2020
+   Elapsed time: 00:24:26
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 164
+   Job name: XCO_JP_Update_Job_Run.16072205260787908324000000030124600635376716226600
+   Status: Finished
+   Started: 03:31
+   On date: 6-12-2020
+   Last ran: 03:34
+   On date: 6-12-2020
+   Elapsed time: 00:02:37
+   Description: Set the status of the run of the flow.
+
+   Item #: 165
+   Job name: XCO_JP_Start_Job_Run.16072205260787908324000000030124600635376716226600
+   Status: Finished
+   Started: 03:08
+   On date: 6-12-2020
+   Last ran: 03:12
+   On date: 6-12-2020
+   Elapsed time: 00:03:28
+   Description: Set the status of the run of the flow.
+
+   Item #: 166
+   Job name: XCO_SQ_Start_Job.16072205260787908324000000030124600635376716226600
+   Status: Finished
+   Started: 03:08
+   On date: 6-12-2020
+   Last ran: 03:34
+   On date: 6-12-2020
+   Elapsed time: 00:25:45
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 167
+   Job name: XCO_JP_Update_Job_Run.16071492330334638253000002142450738688197576410610
+   Status: Finished
+   Started: 07:53
+   On date: 5-12-2020
+   Last ran: 07:53
+   On date: 5-12-2020
+   Elapsed time: 00:00:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 168
+   Job name: XCO_JP_Log_Err.16071492330334638253000002142450738688197576410610
+   Status: Finished
+   Started: 07:49
+   On date: 5-12-2020
+   Last ran: 07:49
+   On date: 5-12-2020
+   Elapsed time: 00:00:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 169
+   Job name: XCO_JP_Start_Job_Run.16071492330334638253000002142450738688197576410610
+   Status: Finished
+   Started: 07:22
+   On date: 5-12-2020
+   Last ran: 07:22
+   On date: 5-12-2020
+   Elapsed time: 00:00:15
+   Description: Set the status of the run of the flow.
+
+   Item #: 170
+   Job name: XCO_SQ_Start_Job.16071492330334638253000002142450738688197576410610
+   Status: Aborted/Restartable
+   Started: 07:20
+   On date: 5-12-2020
+   Last ran: 07:53
+   On date: 5-12-2020
+   Elapsed time: 00:32:41
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 171
+   Job name: XCO_JP_Update_Job_Run.16071361310109034025000002249251955508108267295260
+   Status: Finished
+   Started: 04:00
+   On date: 5-12-2020
+   Last ran: 04:02
+   On date: 5-12-2020
+   Elapsed time: 00:02:41
+   Description: Set the status of the run of the flow.
+
+   Item #: 172
+   Job name: XCO_JP_Start_Job_Run.16071361310109034025000002249251955508108267295260
+   Status: Finished
+   Started: 03:42
+   On date: 5-12-2020
+   Last ran: 03:44
+   On date: 5-12-2020
+   Elapsed time: 00:02:34
+   Description: Set the status of the run of the flow.
+
+   Item #: 173
+   Job name: XCO_SQ_Start_Job.16071361310109034025000002249251955508108267295260
+   Status: Finished
+   Started: 03:42
+   On date: 5-12-2020
+   Last ran: 04:02
+   On date: 5-12-2020
+   Elapsed time: 00:20:45
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 174
+   Job name: XCO_JP_Update_Job_Run.16070860530402430495000001843477751165229126971450
+   Status: Finished
+   Started: 13:50
+   On date: 4-12-2020
+   Last ran: 13:50
+   On date: 4-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 175
+   Job name: XCO_JP_Start_Job_Run.16070860530402430495000001843477751165229126971450
+   Status: Finished
+   Started: 13:47
+   On date: 4-12-2020
+   Last ran: 13:47
+   On date: 4-12-2020
+   Elapsed time: 00:00:15
+   Description: Set the status of the run of the flow.
+
+   Item #: 176
+   Job name: XCO_SQ_Start_Job.16070860530402430495000001843477751165229126971450
+   Status: Finished
+   Started: 13:47
+   On date: 4-12-2020
+   Last ran: 13:50
+   On date: 4-12-2020
+   Elapsed time: 00:03:04
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 177
+   Job name: XCO_JP_Update_Job_Run.16070843080498492736000001821212539470604804182400
+   Status: Finished
+   Started: 13:47
+   On date: 4-12-2020
+   Last ran: 13:47
+   On date: 4-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 178
+   Job name: XCO_JP_Start_Job_Run.16070843080498492736000001821212539470604804182400
+   Status: Finished
+   Started: 13:18
+   On date: 4-12-2020
+   Last ran: 13:20
+   On date: 4-12-2020
+   Elapsed time: 00:01:38
+   Description: Set the status of the run of the flow.
+
+   Item #: 179
+   Job name: XCO_SQ_Start_Job.16070843080498492736000001821212539470604804182400
+   Status: Finished
+   Started: 13:18
+   On date: 4-12-2020
+   Last ran: 13:47
+   On date: 4-12-2020
+   Elapsed time: 00:29:04
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 180
+   Job name: XCO_JP_Update_Job_Run.16070840000154872059000001121327090123706284313110
+   Status: Finished
+   Started: 13:17
+   On date: 4-12-2020
+   Last ran: 13:18
+   On date: 4-12-2020
+   Elapsed time: 00:00:54
+   Description: Set the status of the run of the flow.
+
+   Item #: 181
+   Job name: XCO_JP_Start_Job_Run.16070840000154872059000001121327090123706284313110
+   Status: Finished
+   Started: 13:13
+   On date: 4-12-2020
+   Last ran: 13:13
+   On date: 4-12-2020
+   Elapsed time: 00:00:22
+   Description: Set the status of the run of the flow.
+
+   Item #: 182
+   Job name: XCO_SQ_Start_Job.16070840000154872059000001121327090123706284313110
+   Status: Finished
+   Started: 13:13
+   On date: 4-12-2020
+   Last ran: 13:18
+   On date: 4-12-2020
+   Elapsed time: 00:05:07
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 183
+   Job name: XCO_JP_Update_Job_Run.16070533250165482522000002849470935156798316121400
+   Status: Finished
+   Started: 05:23
+   On date: 4-12-2020
+   Last ran: 05:24
+   On date: 4-12-2020
+   Elapsed time: 00:01:04
+   Description: Set the status of the run of the flow.
+
+   Item #: 184
+   Job name: XCO_JP_Start_Job_Run.16070533250165482522000002849470935156798316121400
+   Status: Finished
+   Started: 04:43
+   On date: 4-12-2020
+   Last ran: 04:44
+   On date: 4-12-2020
+   Elapsed time: 00:01:18
+   Description: Set the status of the run of the flow.
+
+   Item #: 185
+   Job name: XCO_SQ_Start_Job.16070533250165482522000002849470935156798316121400
+   Status: Finished
+   Started: 04:42
+   On date: 4-12-2020
+   Last ran: 05:24
+   On date: 4-12-2020
+   Elapsed time: 00:42:36
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 186
+   Job name: XCO_SQ_Start_Job.16070121420184582163000003179176611995015047555080
+   Status: Finished
+   Started: 17:15
+   On date: 3-12-2020
+   Last ran: 17:25
+   On date: 3-12-2020
+   Elapsed time: 00:10:09
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 187
+   Job name: XCO_SQ_Start_Job.16070106220716525957000002964278842419931919141890
+   Status: Finished
+   Started: 16:50
+   On date: 3-12-2020
+   Last ran: 17:15
+   On date: 3-12-2020
+   Elapsed time: 00:25:18
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 188
+   Job name: XCO_SQ_Start_Job.16070100080516554882000000589485927373385066407500
+   Status: Finished
+   Started: 16:40
+   On date: 3-12-2020
+   Last ran: 16:50
+   On date: 3-12-2020
+   Elapsed time: 00:10:13
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 189
+   Job name: XCO_SQ_Start_Job.16069645150434332748000001419831703262549792782430
+   Status: Finished
+   Started: 04:01
+   On date: 3-12-2020
+   Last ran: 04:39
+   On date: 3-12-2020
+   Elapsed time: 00:37:38
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 190
+   Job name: NL_DB_ACS_DMT_FP_CST_SEC_SGM_FTRS_EOM
+   Status: Finished
+   Started: 12:23
+   On date: 1-12-2020
+   Last ran: 12:24
+   On date: 1-12-2020
+   Elapsed time: 00:00:30
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 191
+   Job name: NL_DB_ACS_DMT_FP_CST_MANAVY_EOM
+   Status: Finished
+   Started: 12:21
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:01:23
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 192
+   Job name: NL_DB_ACS_DMT_FP_CST_IN_TRTM_EOM
+   Status: Finished
+   Started: 12:21
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:01:43
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 193
+   Job name: NL_DB_ACS_DMT_FP_ROLL_RATE_AT_EOM
+   Status: Finished
+   Started: 12:21
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:01:07
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 194
+   Job name: NL_DB_ACS_DMT_FP_TERM_BASED_ROLL_RATE_EOM
+   Status: Finished
+   Started: 12:21
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:01:06
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 195
+   Job name: NL_DB_ACS_SQ_LD_DMT_SEC_SGM_FTRS_EOM
+   Status: Finished
+   Started: 12:21
+   On date: 1-12-2020
+   Last ran: 12:24
+   On date: 1-12-2020
+   Elapsed time: 00:02:17
+   Description: 
+
+   Item #: 196
+   Job name: NL_DB_ACS_DMT_FP_ROLL_RATE_ON_PD_AGRM
+   Status: Finished
+   Started: 12:20
+   On date: 1-12-2020
+   Last ran: 12:21
+   On date: 1-12-2020
+   Elapsed time: 00:01:06
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 197
+   Job name: NL_DB_ACS_SQ_LD_DMT_FP_ROLL_RATES_EOM
+   Status: Finished
+   Started: 12:20
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:02:24
+   Description: 
+
+   Item #: 198
+   Job name: NL_DB_ACS_PRP_FP_ROLL_RATE_ON_PD_AGRM
+   Status: Finished
+   Started: 12:18
+   On date: 1-12-2020
+   Last ran: 12:20
+   On date: 1-12-2020
+   Elapsed time: 00:01:59
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 199
+   Job name: NL_DB_ACS_PRP_FP_CST_MANAVY_EOM
+   Status: Finished
+   Started: 12:18
+   On date: 1-12-2020
+   Last ran: 12:21
+   On date: 1-12-2020
+   Elapsed time: 00:03:15
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 200
+   Job name: NL_DB_ACS_SQ_LD_PRP_CST_MANAVY_EOM
+   Status: Finished
+   Started: 12:18
+   On date: 1-12-2020
+   Last ran: 12:21
+   On date: 1-12-2020
+   Elapsed time: 00:03:17
+   Description: 
+
+   Item #: 201
+   Job name: NL_DB_TLM_STAR_ROLL_RATE_ON_PD_AGRM
+   Status: Finished
+   Started: 12:18
+   On date: 1-12-2020
+   Last ran: 12:23
+   On date: 1-12-2020
+   Elapsed time: 00:04:31
+   Description: Description NL_DB_TLM_STAR_ROLL_RATE_ON_PD_AGRM
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load Treatment Position datamart . 
+
+   Item #: 202
+   Job name: NL_DB_TLM_STAR_SHARED_FCT_MAIN_EOM
+   Status: Finished
+   Started: 12:18
+   On date: 1-12-2020
+   Last ran: 12:24
+   On date: 1-12-2020
+   Elapsed time: 00:05:39
+   Description: Description NL_DB_TLM_STAR_SHARED_FCT_MAIN_EOM
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load facts in a monthly frequency 
+
+   Item #: 203
+   Job name: NL_DB_ACS_DMT_FP_DQAD_LOGG
+   Status: Finished
+   Started: 01:21
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:00:06
+   Description: 
+
+   Item #: 204
+   Job name: NL_DB_ACS_DMT_FP_DQAD_HIST
+   Status: Finished
+   Started: 01:21
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:00:15
+   Description: 
+
+   Item #: 205
+   Job name: NL_DB_ACS_PRP_FP_DC12_LGCY_SEGM_FTRS
+   Status: Finished
+   Started: 01:21
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:00:09
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 206
+   Job name: NL_DB_ACS_PRP_USG_ORI_FPRDBDAG
+   Status: Finished
+   Started: 01:18
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:03:01
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 207
+   Job name: NL_DB_ACS_PRP_USG_ORI_FMBTD
+   Status: Finished
+   Started: 01:16
+   On date: 31-8-2020
+   Last ran: 01:18
+   On date: 31-8-2020
+   Elapsed time: 00:02:19
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 208
+   Job name: NL_DB_ACS_PRP_USG_ORI_FBTD
+   Status: Finished
+   Started: 01:16
+   On date: 31-8-2020
+   Last ran: 01:16
+   On date: 31-8-2020
+   Elapsed time: 00:00:36
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 209
+   Job name: NL_DB_ACS_PRP_USG_ORI_DOVK
+   Status: Finished
+   Started: 01:16
+   On date: 31-8-2020
+   Last ran: 01:16
+   On date: 31-8-2020
+   Elapsed time: 00:00:30
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 210
+   Job name: NL_DB_ACS_PRP_USG_ORI_RELNRS
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:15
+   On date: 31-8-2020
+   Elapsed time: 00:00:07
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 211
+   Job name: NL_DB_ACS_PRP_USG_ORI_BOTH
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:15
+   On date: 31-8-2020
+   Elapsed time: 00:00:13
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 212
+   Job name: NL_DB_ACS_PRP_USG_ORI_DATES
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:15
+   On date: 31-8-2020
+   Elapsed time: 00:00:12
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 213
+   Job name: NL_DB_ACS_PRP_USG_ORI_REKNRS
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:15
+   On date: 31-8-2020
+   Elapsed time: 00:00:13
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 214
+   Job name: NL_DB_ACS_SQ_LD_PRP_DC12
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:06:26
+   Description: 
+
+   Item #: 215
+   Job name: NL_DB_ACS_DC12_MAIN
+   Status: Finished
+   Started: 01:15
+   On date: 31-8-2020
+   Last ran: 01:21
+   On date: 31-8-2020
+   Elapsed time: 00:06:51
+   Description: Description NL_DB_ACS_DC12_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load legacy features n prp
+
+   Item #: 216
+   Job name: XCO_JP_Exception_Log_Err.15973605010403936252000000518543208570777078263570
+   Status: Finished
+   Started: 01:15
+   On date: 14-8-2020
+   Last ran: 01:15
+   On date: 14-8-2020
+   Elapsed time: 00:00:02
+   Description: Set the status of the run of the flow.
+
+   Item #: 217
+   Job name: XCO_SQ_Start_Job.15959179100768250260000002637116196466190332320160
+   Status: Has been reset
+   Started: 09:07
+   On date: 28-7-2020
+   Last ran: 09:07
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 218
+   Job name: XCO_SQ_Start_Job.15959183580458957925000002518692700597665142909500
+   Status: Has been reset
+   Started: 09:07
+   On date: 28-7-2020
+   Last ran: 09:07
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 219
+   Job name: XCO_SQ_Start_Job.15959185350280241407000001663284103363173771261140
+   Status: Has been reset
+   Started: 09:07
+   On date: 28-7-2020
+   Last ran: 09:07
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 220
+   Job name: XCO_SQ_Start_Job.15959189380219297558000001616265739587957798649550
+   Status: Has been reset
+   Started: 09:06
+   On date: 28-7-2020
+   Last ran: 09:06
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 221
+   Job name: XCO_SQ_Start_Job.15959192360346422518000002611790778627905242572790
+   Status: Has been reset
+   Started: 09:06
+   On date: 28-7-2020
+   Last ran: 09:06
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 222
+   Job name: XCO_SQ_Start_Job.15959196700264557235000001912355449651177596498810
+   Status: Has been reset
+   Started: 09:06
+   On date: 28-7-2020
+   Last ran: 09:06
+   On date: 28-7-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 223
+   Job name: XCO_JP_Exception_Log_Err.15894117060237513231000002814442456157577997358170
+   Status: Has been reset
+   Started: 15:48
+   On date: 25-5-2020
+   Last ran: 15:48
+   On date: 25-5-2020
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 224
+   Job name: XCO_SQ_Start_Job.15902124740994609886000000226768608415043247497350
+   Status: Has been reset
+   Started: 15:48
+   On date: 25-5-2020
+   Last ran: 15:48
+   On date: 25-5-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 225
+   Job name: XCO_SQ_Start_Job.15832121200999181742000001080654773843827732485670
+   Status: Has been reset
+   Started: 17:48
+   On date: 4-3-2020
+   Last ran: 17:48
+   On date: 4-3-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 226
+   Job name: CHECK_PDA_ACCESS_DM
+   Status: Finished
+   Started: 00:21
+   On date: 16-2-2020
+   Last ran: 00:21
+   On date: 16-2-2020
+   Elapsed time: 00:00:01
+   Description: Check DataStage connection to PDA
+
+   Item #: 227
+   Job name: NL_DB_ACS_SQ_USG_LD_TWT
+   Status: Finished
+   Started: 01:14
+   On date: 10-12-2019
+   Last ran: 01:15
+   On date: 10-12-2019
+   Elapsed time: 00:00:56
+   Description: 
+
+   Item #: 228
+   Job name: NL_DB_ACS_PRP_DM_ACS_T0_GLM_IN
+   Status: Finished
+   Started: 01:13
+   On date: 10-12-2019
+   Last ran: 01:14
+   On date: 10-12-2019
+   Elapsed time: 00:01:23
+   Description: 
+
+   Item #: 229
+   Job name: NL_DB_ACS_SQ_USG_LD_PRP
+   Status: Finished
+   Started: 01:13
+   On date: 10-12-2019
+   Last ran: 01:14
+   On date: 10-12-2019
+   Elapsed time: 00:01:25
+   Description: 
+
+   Item #: 230
+   Job name: NL_DB_ACS_USG_CHK_FLAG.PRED
+   Status: Finished
+   Started: 01:13
+   On date: 10-12-2019
+   Last ran: 01:13
+   On date: 10-12-2019
+   Elapsed time: 00:00:01
+   Description: 
+
+   Item #: 231
+   Job name: NL_DB_ACS_USG_PRED
+   Status: Finished
+   Started: 01:12
+   On date: 10-12-2019
+   Last ran: 01:15
+   On date: 10-12-2019
+   Elapsed time: 00:02:30
+   Description: 
+
+   Item #: 232
+   Job name: NL_DB_ACS_PRP_FP_CST_LGCY_ORI_SEGM_FTRS
+   Status: Finished
+   Started: 11:45
+   On date: 3-12-2019
+   Last ran: 11:47
+   On date: 3-12-2019
+   Elapsed time: 00:02:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 233
+   Job name: XCO_SQ_Start_Job.15725671850008595773000002270124384457539750472430
+   Status: Has been reset
+   Started: 10:34
+   On date: 1-11-2019
+   Last ran: 10:34
+   On date: 1-11-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 234
+   Job name: XCO_SQ_Start_Job.15675820110952501700000000631323751010904773564560
+   Status: Has been reset
+   Started: 14:57
+   On date: 4-9-2019
+   Last ran: 14:57
+   On date: 4-9-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 235
+   Job name: NL_DB_ACS_DMT_D1_CMM_CDR_R2
+   Status: Finished
+   Started: 13:50
+   On date: 15-7-2019
+   Last ran: 13:50
+   On date: 15-7-2019
+   Elapsed time: 00:00:13
+   Description: 
+
+   Item #: 236
+   Job name: NL_DB_ACS_DMT_D1_CMM_CDR_R2_D
+   Status: Finished
+   Started: 13:49
+   On date: 15-7-2019
+   Last ran: 13:49
+   On date: 15-7-2019
+   Elapsed time: 00:00:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 237
+   Job name: NL_DB_ACS_PRP_D1_CMM_CDR_R2
+   Status: Finished
+   Started: 13:48
+   On date: 15-7-2019
+   Last ran: 13:48
+   On date: 15-7-2019
+   Elapsed time: 00:00:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 238
+   Job name: XCO_SQ_Start_Job.15617941350138087824000000639715865156983847449060
+   Status: Has been reset
+   Started: 14:11
+   On date: 5-7-2019
+   Last ran: 14:11
+   On date: 5-7-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 239
+   Job name: XCO_SQ_Start_Job.15623040640687620166000000477856015801450810664740
+   Status: Has been reset
+   Started: 14:10
+   On date: 5-7-2019
+   Last ran: 14:10
+   On date: 5-7-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 240
+   Job name: XCO_SQ_Start_Job.15596257270421696857000001147069674155767420015760
+   Status: Has been reset
+   Started: 07:30
+   On date: 4-6-2019
+   Last ran: 07:30
+   On date: 4-6-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 241
+   Job name: XCO_SQ_Start_Job.15595494170702646942000001510524208769903800447920
+   Status: Has been reset
+   Started: 10:32
+   On date: 3-6-2019
+   Last ran: 10:32
+   On date: 3-6-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 242
+   Job name: XCO_SQ_Start_Job.15593705000901783152000002919269600785320178272740
+   Status: Has been reset
+   Started: 09:15
+   On date: 3-6-2019
+   Last ran: 09:15
+   On date: 3-6-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 243
+   Job name: OLD_NL_DB_ACS_SQ_LD_DMT_STAR_SHRD_DIM
+   Status: Compiled
+   Started: 09:00
+   On date: 29-5-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 244
+   Job name: OLD_NL_DB_ACS_SQ_LD_DMT_STAR_SHRD_DIM_D
+   Status: Compiled
+   Started: 08:47
+   On date: 29-5-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 245
+   Job name: XCO_SQ_Start_Job.15542831340781806020000001377188216605595226027400
+   Status: Has been reset
+   Started: 16:36
+   On date: 3-4-2019
+   Last ran: 16:36
+   On date: 3-4-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 246
+   Job name: NL_DB_ACS_PRP_FP_IN_TRTM_PRTFL
+   Status: Finished
+   Started: 08:28
+   On date: 4-3-2019
+   Last ran: 08:31
+   On date: 4-3-2019
+   Elapsed time: 00:02:54
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 247
+   Job name: XCO_SQ_Start_Job.15488517720001707325000001958338054725988098099840
+   Status: Has been reset
+   Started: 17:38
+   On date: 30-1-2019
+   Last ran: 17:38
+   On date: 30-1-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 248
+   Job name: XCO_SQ_Start_Job.15488331190957064991000001268025513985598394370100
+   Status: Has been reset
+   Started: 09:44
+   On date: 30-1-2019
+   Last ran: 09:44
+   On date: 30-1-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 249
+   Job name: XCO_JP_Start_Job_Run.15454046210358907822000003270965863136336485824950
+   Status: Has been reset
+   Started: 17:40
+   On date: 21-12-2018
+   Last ran: 17:40
+   On date: 21-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 250
+   Job name: XCO_JP_Exception_Log_Err.15454046210358907822000003270965863136336485824950
+   Status: Has been reset
+   Started: 17:39
+   On date: 21-12-2018
+   Last ran: 17:39
+   On date: 21-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 251
+   Job name: XCO_SQ_Start_Job.15454046210358907822000003270965863136336485824950
+   Status: Has been reset
+   Started: 17:39
+   On date: 21-12-2018
+   Last ran: 17:39
+   On date: 21-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 252
+   Job name: XCO_JP_Exception_Log_Err.15427620110591563450000000277212722797119606951740
+   Status: Has been reset
+   Started: 11:23
+   On date: 7-12-2018
+   Last ran: 11:23
+   On date: 7-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 253
+   Job name: XCO_SQ_Start_Job.15441548490478282157000000630858664199447491758240
+   Status: Has been reset
+   Started: 11:14
+   On date: 7-12-2018
+   Last ran: 11:14
+   On date: 7-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 254
+   Job name: XCO_SQ_Start_Job.15383623510550168764000002651719562171236912444460
+   Status: Has been reset
+   Started: 14:18
+   On date: 1-10-2018
+   Last ran: 14:18
+   On date: 1-10-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 255
+   Job name: XCO_SQ_Start_Job.15369813500661413959000002991784638402381107928210
+   Status: Has been reset
+   Started: 17:05
+   On date: 17-9-2018
+   Last ran: 17:05
+   On date: 17-9-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 256
+   Job name: NL_DB_TWT_PRESS
+   Status: Compiled
+   Started: 11:48
+   On date: 22-8-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 257
+   Job name: NL_DB_PRES_INTF
+   Status: Finished
+   Started: 13:56
+   On date: 10-8-2018
+   Last ran: 13:57
+   On date: 10-8-2018
+   Elapsed time: 00:00:32
+   Description: Monthly interface Preventieve SMS
+
+   Item #: 258
+   Job name: XCO_SQ_Start_Job.15315552710873200676000002936424439059084253173100
+   Status: Has been reset
+   Started: 20:55
+   On date: 15-7-2018
+   Last ran: 20:55
+   On date: 15-7-2018
+   Elapsed time: 00:00:01
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 259
+   Job name: NL_DB_ACS_PRP_PD_AGRM_TRTM_POS_CODES
+   Status: Compiled
+   Started: 15:07
+   On date: 28-6-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load acct with trtmt codes
+
+   Item #: 260
+   Job name: XCO_SQ_Start_Job.15301440130725452233000001951947656774031173008410
+   Status: Has been reset
+   Started: 13:33
+   On date: 28-6-2018
+   Last ran: 13:33
+   On date: 28-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 261
+   Job name: XCO_SQ_Start_Job.15293912330466472220000001272815791243929187138390
+   Status: Has been reset
+   Started: 17:50
+   On date: 19-6-2018
+   Last ran: 17:50
+   On date: 19-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 262
+   Job name: XCO_SQ_Start_Job.15290457770948890633000002028145902720357153058760
+   Status: Has been reset
+   Started: 17:21
+   On date: 18-6-2018
+   Last ran: 17:21
+   On date: 18-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 263
+   Job name: XCO_SQ_Start_Job.15282432160882007241000002537592509544692243903400
+   Status: Has been reset
+   Started: 08:59
+   On date: 6-6-2018
+   Last ran: 08:59
+   On date: 6-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 264
+   Job name: XCO_SQ_Start_Job.15281568110326393744000002508471044638496948596340
+   Status: Has been reset
+   Started: 13:09
+   On date: 5-6-2018
+   Last ran: 13:09
+   On date: 5-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 265
+   Job name: XCO_SQ_Start_Job.15281179970306447829000002492515320894301535688170
+   Status: Has been reset
+   Started: 13:09
+   On date: 5-6-2018
+   Last ran: 13:09
+   On date: 5-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 266
+   Job name: XCO_SQ_Start_Job.15266998710621057949000001459141345199823088278450
+   Status: Has been reset
+   Started: 08:44
+   On date: 22-5-2018
+   Last ran: 08:44
+   On date: 22-5-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 267
+   Job name: XCO_SQ_Start_Job.15262680620430673338000002315244196066413770299950
+   Status: Has been reset
+   Started: 17:29
+   On date: 14-5-2018
+   Last ran: 17:29
+   On date: 14-5-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 268
+   Job name: XCO_SQ_Start_Job.15234364900245531235000000623966654437421501501770
+   Status: Has been reset
+   Started: 11:43
+   On date: 11-4-2018
+   Last ran: 11:43
+   On date: 11-4-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 269
+   Job name: NL_DB_ACS_PRP_MTHR_TRTM_POS
+   Status: Finished
+   Started: 17:21
+   On date: 26-3-2018
+   Last ran: 17:21
+   On date: 26-3-2018
+   Elapsed time: 00:00:05
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 270
+   Job name: NL_DB_ACS_SQ_LD_PRP_MTHR_TRTM_POS
+   Status: Finished
+   Started: 17:21
+   On date: 26-3-2018
+   Last ran: 17:21
+   On date: 26-3-2018
+   Elapsed time: 00:00:08
+   Description: 
+
+   Item #: 271
+   Job name: XCO_SQ_Start_Job.15174921410820097397000000522091506514865437468230
+   Status: Has been reset
+   Started: 14:39
+   On date: 1-2-2018
+   Last ran: 14:39
+   On date: 1-2-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 272
+   Job name: XCO_SQ_Start_Job.15174593540735578580000002212388974041005553064600
+   Status: Has been reset
+   Started: 14:39
+   On date: 1-2-2018
+   Last ran: 14:39
+   On date: 1-2-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 273
+   Job name: NL_DB_ACS_SQ_LD_DMT_TRTM_POS
+   Status: Finished
+   Started: 17:07
+   On date: 27-7-2017
+   Last ran: 17:08
+   On date: 27-7-2017
+   Elapsed time: 00:00:21
+   Description: 
+
+   Item #: 274
+   Job name: NL_DB_TLM_TRTM_POS_MAIN
+   Status: Finished
+   Started: 17:07
+   On date: 27-7-2017
+   Last ran: 17:08
+   On date: 27-7-2017
+   Elapsed time: 00:00:27
+   Description: Description NL_DB_TLM_TRTM_POS_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load Treatment Position datamart . 
+
+   Item #: 275
+   Job name: XCO_SQ_Start_Job
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 276
+   Job name: XCO_SQ_Start_Job.15209028110252384831000000879696619027249223259900
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 277
+   Job name: XCO_JP_Start_Job_Run
+   Status: Compiled
+   Started: 13:31
+   On date: 14-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 278
+   Job name: NL_DB_ACS_USG_CHK_FLAG
+   Status: Compiled
+   Started: 09:30
+   On date: 18-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 279
+   Job name: XCO_JP_Exception_Log_Err
+   Status: Compiled
+   Started: 11:13
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 280
+   Job name: XCO_JP_Log_Err
+   Status: Compiled
+   Started: 11:11
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 281
+   Job name: XCO_JP_Update_Job_Run
+   Status: Compiled
+   Started: 10:16
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+End of report.

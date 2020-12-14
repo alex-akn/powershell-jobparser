@@ -1,0 +1,6337 @@
+DataStage Report - Detail Status of jobs:  
+Produced on: 11-12-2020 07:57:48
+Project: NL_IS_ACS
+Host system: LRV1540R
+Items: 1 - 611
+Sorted on: Date Sorter
+
+   Item #: 1
+   Job name: XCO_JP_Update_Job_Run.16076567830474020806000000331326631509138173324960
+   Status: Finished
+   Started: 07:51
+   On date: 11-12-2020
+   Last ran: 07:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:15
+   Description: Set the status of the run of the flow.
+
+   Item #: 2
+   Job name: NL_DB_CTL_CREATE_MV_RM_SCRIPT
+   Status: Finished
+   Started: 07:38
+   On date: 11-12-2020
+   Last ran: 07:40
+   On date: 11-12-2020
+   Elapsed time: 00:01:54
+   Description: 
+
+   Item #: 3
+   Job name: NL_DB_CTL_SQ_RM_DATA_LOG_FILES
+   Status: Finished
+   Started: 07:38
+   On date: 11-12-2020
+   Last ran: 07:40
+   On date: 11-12-2020
+   Elapsed time: 00:01:59
+   Description: Job description
+-----------------------------------------------------------------------
+Move processed data file to PROCESSED folder and delete data and log files older then 3 days in LOG and PROCESSED folders.
+
+   Item #: 4
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V_Opt
+   Status: Finished
+   Started: 07:35
+   On date: 11-12-2020
+   Last ran: 07:38
+   On date: 11-12-2020
+   Elapsed time: 00:02:39
+   Description: 
+
+   Item #: 5
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_V_Opt
+   Status: Finished
+   Started: 07:35
+   On date: 11-12-2020
+   Last ran: 07:38
+   On date: 11-12-2020
+   Elapsed time: 00:02:56
+   Description: 
+
+   Item #: 6
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_CONTACTS_V_Opt
+   Status: Finished
+   Started: 07:34
+   On date: 11-12-2020
+   Last ran: 07:36
+   On date: 11-12-2020
+   Elapsed time: 00:02:01
+   Description: 
+
+   Item #: 7
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKSAVINGS_V_Opt
+   Status: Finished
+   Started: 07:34
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:01:28
+   Description: 
+
+   Item #: 8
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_CV_V_Opt
+   Status: Finished
+   Started: 07:34
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:01:36
+   Description: 
+
+   Item #: 9
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_ING_PERSON_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:01:57
+   Description: 
+
+   Item #: 10
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:01:55
+   Description: 
+
+   Item #: 11
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:05
+   Description: 
+
+   Item #: 12
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:05
+   Description: 
+
+   Item #: 13
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:14
+   Description: 
+
+   Item #: 14
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_AFSCHEID_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:13
+   Description: 
+
+   Item #: 15
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:10
+   Description: 
+
+   Item #: 16
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:13
+   Description: 
+
+   Item #: 17
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VEILEN_V_Opt
+   Status: Finished
+   Started: 07:33
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:16
+   Description: 
+
+   Item #: 18
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_WORKING_DAYS_V_Opt
+   Status: Finished
+   Started: 07:32
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:36
+   Description: 
+
+   Item #: 19
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SEGMENTS_V_Opt
+   Status: Finished
+   Started: 07:32
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:02:47
+   Description: 
+
+   Item #: 20
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_WSNP_V_Opt
+   Status: Finished
+   Started: 07:32
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:02
+   Description: 
+
+   Item #: 21
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 07:32
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:13
+   Description: 
+
+   Item #: 22
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_V_Opt
+   Status: Finished
+   Started: 07:32
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:23
+   Description: 
+
+   Item #: 23
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_V_Opt
+   Status: Finished
+   Started: 07:31
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:32
+   Description: 
+
+   Item #: 24
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_V_Opt
+   Status: Finished
+   Started: 07:31
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:30
+   Description: 
+
+   Item #: 25
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_USERS_V_Opt
+   Status: Finished
+   Started: 07:30
+   On date: 11-12-2020
+   Last ran: 07:34
+   On date: 11-12-2020
+   Elapsed time: 00:04:07
+   Description: 
+
+   Item #: 26
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 07:30
+   On date: 11-12-2020
+   Last ran: 07:35
+   On date: 11-12-2020
+   Elapsed time: 00:04:15
+   Description: 
+
+   Item #: 27
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 07:30
+   On date: 11-12-2020
+   Last ran: 07:34
+   On date: 11-12-2020
+   Elapsed time: 00:04:06
+   Description: 
+
+   Item #: 28
+   Job name: NL_DB_ACS_CDS_SS_TLM_LO_ING_AUCTION_LOCATION_V_Opt
+   Status: Finished
+   Started: 07:30
+   On date: 11-12-2020
+   Last ran: 07:34
+   On date: 11-12-2020
+   Elapsed time: 00:04:05
+   Description: 
+
+   Item #: 29
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:34
+   On date: 11-12-2020
+   Elapsed time: 00:04:38
+   Description: 
+
+   Item #: 30
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:12
+   Description: 
+
+   Item #: 31
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:06
+   Description: 
+
+   Item #: 32
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:10
+   Description: 
+
+   Item #: 33
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_NHG_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:12
+   Description: 
+
+   Item #: 34
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DOEDAT_REQUEST_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:12
+   Description: 
+
+   Item #: 35
+   Job name: NL_DB_ACS_CDS_SS_TLM_CO_ROUTEPOSITIONS_V_Opt
+   Status: Finished
+   Started: 07:29
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:17
+   Description: 
+
+   Item #: 36
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SCM_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:19
+   Description: 
+
+   Item #: 37
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:33
+   On date: 11-12-2020
+   Elapsed time: 00:04:21
+   Description: 
+
+   Item #: 38
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:32
+   On date: 11-12-2020
+   Elapsed time: 00:03:53
+   Description: 
+
+   Item #: 39
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CONSUMER_LOANS_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:32
+   On date: 11-12-2020
+   Elapsed time: 00:03:55
+   Description: 
+
+   Item #: 40
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MAGDAT_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:32
+   On date: 11-12-2020
+   Elapsed time: 00:04:20
+   Description: 
+
+   Item #: 41
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:32
+   On date: 11-12-2020
+   Elapsed time: 00:03:55
+   Description: 
+
+   Item #: 42
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_NONWORKINGDAYS_V_Opt
+   Status: Finished
+   Started: 07:28
+   On date: 11-12-2020
+   Last ran: 07:32
+   On date: 11-12-2020
+   Elapsed time: 00:03:48
+   Description: 
+
+   Item #: 43
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V_Opt
+   Status: Finished
+   Started: 07:27
+   On date: 11-12-2020
+   Last ran: 07:31
+   On date: 11-12-2020
+   Elapsed time: 00:04:30
+   Description: 
+
+   Item #: 44
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KYC_V_Opt
+   Status: Finished
+   Started: 07:26
+   On date: 11-12-2020
+   Last ran: 07:30
+   On date: 11-12-2020
+   Elapsed time: 00:04:04
+   Description: 
+
+   Item #: 45
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V_Opt
+   Status: Finished
+   Started: 07:26
+   On date: 11-12-2020
+   Last ran: 07:30
+   On date: 11-12-2020
+   Elapsed time: 00:04:03
+   Description: 
+
+   Item #: 46
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_V_Opt
+   Status: Finished
+   Started: 07:26
+   On date: 11-12-2020
+   Last ran: 07:30
+   On date: 11-12-2020
+   Elapsed time: 00:04:07
+   Description: 
+
+   Item #: 47
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R_Opt
+   Status: Finished
+   Started: 07:26
+   On date: 11-12-2020
+   Last ran: 07:30
+   On date: 11-12-2020
+   Elapsed time: 00:04:11
+   Description: 
+
+   Item #: 48
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V_Opt
+   Status: Finished
+   Started: 07:26
+   On date: 11-12-2020
+   Last ran: 07:30
+   On date: 11-12-2020
+   Elapsed time: 00:04:23
+   Description: 
+
+   Item #: 49
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:59
+   Description: 
+
+   Item #: 50
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:46
+   Description: 
+
+   Item #: 51
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_TEAM_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:45
+   Description: 
+
+   Item #: 52
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FORBEARANCE_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:55
+   Description: 
+
+   Item #: 53
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:54
+   Description: 
+
+   Item #: 54
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:04:03
+   Description: 
+
+   Item #: 55
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_STATUS_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:29
+   On date: 11-12-2020
+   Elapsed time: 00:03:48
+   Description: 
+
+   Item #: 56
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:43
+   Description: 
+
+   Item #: 57
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:30
+   Description: 
+
+   Item #: 58
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:45
+   Description: 
+
+   Item #: 59
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:16
+   Description: 
+
+   Item #: 60
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:17
+   Description: 
+
+   Item #: 61
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:13
+   Description: 
+
+   Item #: 62
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_V_Opt
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:28
+   On date: 11-12-2020
+   Elapsed time: 00:03:13
+   Description: 
+
+   Item #: 63
+   Job name: NL_DB_TLM_SQ_CDS_V
+   Status: Finished
+   Started: 07:25
+   On date: 11-12-2020
+   Last ran: 07:38
+   On date: 11-12-2020
+   Elapsed time: 00:13:22
+   Description: 
+
+   Item #: 64
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VEILEN_V_D_Opt
+   Status: Finished
+   Started: 07:19
+   On date: 11-12-2020
+   Last ran: 07:23
+   On date: 11-12-2020
+   Elapsed time: 00:03:42
+   Description: 
+
+   Item #: 65
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_V_D_Opt
+   Status: Finished
+   Started: 07:19
+   On date: 11-12-2020
+   Last ran: 07:22
+   On date: 11-12-2020
+   Elapsed time: 00:03:42
+   Description: 
+
+   Item #: 66
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_V_D_Opt
+   Status: Finished
+   Started: 07:19
+   On date: 11-12-2020
+   Last ran: 07:22
+   On date: 11-12-2020
+   Elapsed time: 00:03:40
+   Description: 
+
+   Item #: 67
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_NHG_V_D_Opt
+   Status: Finished
+   Started: 07:18
+   On date: 11-12-2020
+   Last ran: 07:22
+   On date: 11-12-2020
+   Elapsed time: 00:03:39
+   Description: 
+
+   Item #: 68
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_V_D_Opt
+   Status: Finished
+   Started: 07:18
+   On date: 11-12-2020
+   Last ran: 07:21
+   On date: 11-12-2020
+   Elapsed time: 00:03:14
+   Description: 
+
+   Item #: 69
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_CONTACTS_V_D_Opt
+   Status: Finished
+   Started: 07:18
+   On date: 11-12-2020
+   Last ran: 07:21
+   On date: 11-12-2020
+   Elapsed time: 00:02:37
+   Description: 
+
+   Item #: 70
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MAGDAT_V_D_Opt
+   Status: Finished
+   Started: 07:18
+   On date: 11-12-2020
+   Last ran: 07:25
+   On date: 11-12-2020
+   Elapsed time: 00:06:49
+   Description: 
+
+   Item #: 71
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V_D_Opt
+   Status: Finished
+   Started: 07:18
+   On date: 11-12-2020
+   Last ran: 07:20
+   On date: 11-12-2020
+   Elapsed time: 00:02:32
+   Description: 
+
+   Item #: 72
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:19
+   On date: 11-12-2020
+   Elapsed time: 00:01:26
+   Description: 
+
+   Item #: 73
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:19
+   On date: 11-12-2020
+   Elapsed time: 00:01:23
+   Description: 
+
+   Item #: 74
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SEGMENTS_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:12
+   Description: 
+
+   Item #: 75
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DOEDAT_REQUEST_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:02
+   Description: 
+
+   Item #: 76
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_WORKING_DAYS_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:00:59
+   Description: 
+
+   Item #: 77
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_ACTIVITIES_V_D_Opt
+   Status: Finished
+   Started: 07:17
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:10
+   Description: 
+
+   Item #: 78
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:43
+   Description: 
+
+   Item #: 79
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:46
+   Description: 
+
+   Item #: 80
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KYC_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:01:46
+   Description: 
+
+   Item #: 81
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:18
+   On date: 11-12-2020
+   Elapsed time: 00:02:06
+   Description: 
+
+   Item #: 82
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_ING_PERSON_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:01:41
+   Description: 
+
+   Item #: 83
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V_D_Opt
+   Status: Finished
+   Started: 07:16
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:01:47
+   Description: 
+
+   Item #: 84
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:01:41
+   Description: 
+
+   Item #: 85
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:05
+   Description: 
+
+   Item #: 86
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:01:32
+   Description: 
+
+   Item #: 87
+   Job name: NL_DB_ACS_CDS_SS_TLM_LO_ING_AUCTION_LOCATION_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:01:13
+   Description: 
+
+   Item #: 88
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:12
+   Description: 
+
+   Item #: 89
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:22
+   Description: 
+
+   Item #: 90
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CONSUMER_LOANS_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:22
+   Description: 
+
+   Item #: 91
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_AFSCHEID_V_D_Opt
+   Status: Finished
+   Started: 07:15
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:28
+   Description: 
+
+   Item #: 92
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_V_D_Opt
+   Status: Finished
+   Started: 07:14
+   On date: 11-12-2020
+   Last ran: 07:17
+   On date: 11-12-2020
+   Elapsed time: 00:02:27
+   Description: 
+
+   Item #: 93
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_V_D_Opt
+   Status: Finished
+   Started: 07:14
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:01:49
+   Description: 
+
+   Item #: 94
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_V_D_Opt
+   Status: Finished
+   Started: 07:14
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:02:06
+   Description: 
+
+   Item #: 95
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V_D_Opt
+   Status: Finished
+   Started: 07:14
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:02:08
+   Description: 
+
+   Item #: 96
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_V_D_Opt
+   Status: Finished
+   Started: 07:14
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:02:14
+   Description: 
+
+   Item #: 97
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V_D_Opt
+   Status: Finished
+   Started: 07:13
+   On date: 11-12-2020
+   Last ran: 07:16
+   On date: 11-12-2020
+   Elapsed time: 00:02:32
+   Description: 
+
+   Item #: 98
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_NONWORKINGDAYS_V_D_Opt
+   Status: Finished
+   Started: 07:13
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:02:09
+   Description: 
+
+   Item #: 99
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_WSNP_V_D_Opt
+   Status: Finished
+   Started: 07:12
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:03:13
+   Description: 
+
+   Item #: 100
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKSAVINGS_V_D_Opt
+   Status: Finished
+   Started: 07:12
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:03:04
+   Description: 
+
+   Item #: 101
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_CV_V_D_Opt
+   Status: Finished
+   Started: 07:12
+   On date: 11-12-2020
+   Last ran: 07:14
+   On date: 11-12-2020
+   Elapsed time: 00:02:35
+   Description: 
+
+   Item #: 102
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_V_D_Opt
+   Status: Finished
+   Started: 07:12
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:03:21
+   Description: 
+
+   Item #: 103
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V_D_Opt
+   Status: Finished
+   Started: 07:11
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:03:44
+   Description: 
+
+   Item #: 104
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_V_D_Opt
+   Status: Finished
+   Started: 07:11
+   On date: 11-12-2020
+   Last ran: 07:14
+   On date: 11-12-2020
+   Elapsed time: 00:02:34
+   Description: 
+
+   Item #: 105
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V_D_Opt
+   Status: Finished
+   Started: 07:11
+   On date: 11-12-2020
+   Last ran: 07:14
+   On date: 11-12-2020
+   Elapsed time: 00:02:41
+   Description: 
+
+   Item #: 106
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V_D_Opt
+   Status: Finished
+   Started: 07:11
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:03:43
+   Description: 
+
+   Item #: 107
+   Job name: NL_DB_ACS_CDS_SS_TLM_CO_ROUTEPOSITIONS_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:12
+   On date: 11-12-2020
+   Elapsed time: 00:02:08
+   Description: 
+
+   Item #: 108
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_USERS_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:13
+   On date: 11-12-2020
+   Elapsed time: 00:03:17
+   Description: 
+
+   Item #: 109
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_TEAM_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:13
+   On date: 11-12-2020
+   Elapsed time: 00:03:15
+   Description: 
+
+   Item #: 110
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SCM_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:21
+   Description: 
+
+   Item #: 111
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:12
+   On date: 11-12-2020
+   Elapsed time: 00:01:54
+   Description: 
+
+   Item #: 112
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:13
+   On date: 11-12-2020
+   Elapsed time: 00:03:03
+   Description: 
+
+   Item #: 113
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FORBEARANCE_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:12
+   On date: 11-12-2020
+   Elapsed time: 00:02:24
+   Description: 
+
+   Item #: 114
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:48
+   Description: 
+
+   Item #: 115
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:14
+   On date: 11-12-2020
+   Elapsed time: 00:04:15
+   Description: 
+
+   Item #: 116
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_STATUS_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:46
+   Description: 
+
+   Item #: 117
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:13
+   On date: 11-12-2020
+   Elapsed time: 00:03:04
+   Description: 
+
+   Item #: 118
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:42
+   Description: 
+
+   Item #: 119
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:44
+   Description: 
+
+   Item #: 120
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:48
+   Description: 
+
+   Item #: 121
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_V_D_Opt
+   Status: Finished
+   Started: 07:10
+   On date: 11-12-2020
+   Last ran: 07:11
+   On date: 11-12-2020
+   Elapsed time: 00:01:47
+   Description: 
+
+   Item #: 122
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_V_D_Opt
+   Status: Finished
+   Started: 07:09
+   On date: 11-12-2020
+   Last ran: 07:15
+   On date: 11-12-2020
+   Elapsed time: 00:05:29
+   Description: 
+
+   Item #: 123
+   Job name: NL_DB_TLM_SQ_CDS_D
+   Status: Finished
+   Started: 07:09
+   On date: 11-12-2020
+   Last ran: 07:25
+   On date: 11-12-2020
+   Elapsed time: 00:15:04
+   Description: 
+
+   Item #: 124
+   Job name: NL_DB_ACS_CDS_SS_TLM_EV_ACCOUNTACTIVITIES_I_Opt
+   Status: Finished
+   Started: 07:07
+   On date: 11-12-2020
+   Last ran: 07:09
+   On date: 11-12-2020
+   Elapsed time: 00:02:20
+   Description: Load ACS_CDS_SS_TLM_EV_ACCOUNTACTIVITIES_I from ACS_CDSP_SS_TLM_EV_ACCOUNTACTIVITIES_I_VW
+
+   Item #: 125
+   Job name: NL_DB_ACS_CDS_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I_Opt
+   Status: Finished
+   Started: 07:07
+   On date: 11-12-2020
+   Last ran: 07:08
+   On date: 11-12-2020
+   Elapsed time: 00:01:05
+   Description: Load ACS_CDS_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I from ACS_CDSP_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I_VW
+
+   Item #: 126
+   Job name: NL_DB_TLM_SQ_CDS_I
+   Status: Finished
+   Started: 07:07
+   On date: 11-12-2020
+   Last ran: 07:09
+   On date: 11-12-2020
+   Elapsed time: 00:02:23
+   Description: 
+
+   Item #: 127
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_K_Opt
+   Status: Finished
+   Started: 07:05
+   On date: 11-12-2020
+   Last ran: 07:07
+   On date: 11-12-2020
+   Elapsed time: 00:01:38
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V
+
+   Item #: 128
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_K_Opt
+   Status: Finished
+   Started: 07:03
+   On date: 11-12-2020
+   Last ran: 07:05
+   On date: 11-12-2020
+   Elapsed time: 00:02:22
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V
+
+   Item #: 129
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_K_Opt
+   Status: Finished
+   Started: 07:00
+   On date: 11-12-2020
+   Last ran: 07:03
+   On date: 11-12-2020
+   Elapsed time: 00:03:19
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V
+
+   Item #: 130
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FORBEARANCE_K_Opt
+   Status: Finished
+   Started: 06:58
+   On date: 11-12-2020
+   Last ran: 07:00
+   On date: 11-12-2020
+   Elapsed time: 00:01:44
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V
+
+   Item #: 131
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_K_Opt
+   Status: Finished
+   Started: 06:56
+   On date: 11-12-2020
+   Last ran: 06:58
+   On date: 11-12-2020
+   Elapsed time: 00:01:57
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V
+
+   Item #: 132
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_STATUS_K_Opt
+   Status: Finished
+   Started: 06:54
+   On date: 11-12-2020
+   Last ran: 06:56
+   On date: 11-12-2020
+   Elapsed time: 00:02:08
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V
+
+   Item #: 133
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_K_Opt
+   Status: Finished
+   Started: 06:52
+   On date: 11-12-2020
+   Last ran: 06:54
+   On date: 11-12-2020
+   Elapsed time: 00:01:29
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V
+
+   Item #: 134
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_K_Opt
+   Status: Finished
+   Started: 06:51
+   On date: 11-12-2020
+   Last ran: 06:52
+   On date: 11-12-2020
+   Elapsed time: 00:01:38
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V
+
+   Item #: 135
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_K_Opt
+   Status: Finished
+   Started: 06:49
+   On date: 11-12-2020
+   Last ran: 06:51
+   On date: 11-12-2020
+   Elapsed time: 00:01:41
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V
+
+   Item #: 136
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_K_Opt
+   Status: Finished
+   Started: 06:47
+   On date: 11-12-2020
+   Last ran: 06:49
+   On date: 11-12-2020
+   Elapsed time: 00:01:55
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V
+
+   Item #: 137
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_K_Opt
+   Status: Finished
+   Started: 06:45
+   On date: 11-12-2020
+   Last ran: 06:47
+   On date: 11-12-2020
+   Elapsed time: 00:02:15
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V
+
+   Item #: 138
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_K_Opt
+   Status: Finished
+   Started: 06:41
+   On date: 11-12-2020
+   Last ran: 06:44
+   On date: 11-12-2020
+   Elapsed time: 00:02:56
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V
+
+   Item #: 139
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_K_Opt
+   Status: Finished
+   Started: 06:35
+   On date: 11-12-2020
+   Last ran: 06:41
+   On date: 11-12-2020
+   Elapsed time: 00:06:18
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_V
+
+   Item #: 140
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_K_Opt
+   Status: Finished
+   Started: 06:31
+   On date: 11-12-2020
+   Last ran: 06:35
+   On date: 11-12-2020
+   Elapsed time: 00:03:35
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V
+
+   Item #: 141
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_ASSIGNMENT_K_Opt
+   Status: Finished
+   Started: 06:28
+   On date: 11-12-2020
+   Last ran: 06:31
+   On date: 11-12-2020
+   Elapsed time: 00:03:01
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V
+
+   Item #: 142
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_K_Opt
+   Status: Finished
+   Started: 06:26
+   On date: 11-12-2020
+   Last ran: 06:28
+   On date: 11-12-2020
+   Elapsed time: 00:02:30
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V
+
+   Item #: 143
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_K1_Opt
+   Status: Finished
+   Started: 06:24
+   On date: 11-12-2020
+   Last ran: 06:26
+   On date: 11-12-2020
+   Elapsed time: 00:01:52
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V
+
+   Item #: 144
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_K_Opt
+   Status: Finished
+   Started: 06:22
+   On date: 11-12-2020
+   Last ran: 06:24
+   On date: 11-12-2020
+   Elapsed time: 00:01:38
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FA_V
+
+   Item #: 145
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VEILEN_K_Opt
+   Status: Finished
+   Started: 06:20
+   On date: 11-12-2020
+   Last ran: 06:22
+   On date: 11-12-2020
+   Elapsed time: 00:01:41
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_VEILEN_V
+
+   Item #: 146
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_AFSCHEID_K_Opt
+   Status: Finished
+   Started: 06:18
+   On date: 11-12-2020
+   Last ran: 06:20
+   On date: 11-12-2020
+   Elapsed time: 00:02:03
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_AFSCHEID_V
+
+   Item #: 147
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DOEDAT_REQUEST_K_Opt
+   Status: Finished
+   Started: 06:16
+   On date: 11-12-2020
+   Last ran: 06:18
+   On date: 11-12-2020
+   Elapsed time: 00:02:32
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_DOEDAT_REQUEST_V
+
+   Item #: 148
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_NHG_K_Opt
+   Status: Finished
+   Started: 06:13
+   On date: 11-12-2020
+   Last ran: 06:16
+   On date: 11-12-2020
+   Elapsed time: 00:02:18
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FA_NHG_V
+
+   Item #: 149
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MAGDAT_K_Opt
+   Status: Finished
+   Started: 06:12
+   On date: 11-12-2020
+   Last ran: 06:13
+   On date: 11-12-2020
+   Elapsed time: 00:00:57
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MAGDAT_V
+
+   Item #: 150
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKSAVINGS_K_Opt
+   Status: Finished
+   Started: 06:11
+   On date: 11-12-2020
+   Last ran: 06:12
+   On date: 11-12-2020
+   Elapsed time: 00:01:18
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_BANKSAVINGS_V
+
+   Item #: 151
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_K_Opt
+   Status: Finished
+   Started: 06:08
+   On date: 11-12-2020
+   Last ran: 06:11
+   On date: 11-12-2020
+   Elapsed time: 00:02:44
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_V
+
+   Item #: 152
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_K_Opt
+   Status: Finished
+   Started: 06:06
+   On date: 11-12-2020
+   Last ran: 06:08
+   On date: 11-12-2020
+   Elapsed time: 00:02:09
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V
+
+   Item #: 153
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_K_Opt
+   Status: Finished
+   Started: 06:03
+   On date: 11-12-2020
+   Last ran: 06:06
+   On date: 11-12-2020
+   Elapsed time: 00:03:01
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V
+
+   Item #: 154
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_K_Opt
+   Status: Finished
+   Started: 06:02
+   On date: 11-12-2020
+   Last ran: 06:03
+   On date: 11-12-2020
+   Elapsed time: 00:01:06
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V
+
+   Item #: 155
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_K_Opt
+   Status: Finished
+   Started: 06:01
+   On date: 11-12-2020
+   Last ran: 06:02
+   On date: 11-12-2020
+   Elapsed time: 00:01:02
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V
+
+   Item #: 156
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_K_Opt
+   Status: Finished
+   Started: 05:58
+   On date: 11-12-2020
+   Last ran: 06:01
+   On date: 11-12-2020
+   Elapsed time: 00:02:49
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V
+
+   Item #: 157
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_K_Opt
+   Status: Finished
+   Started: 05:53
+   On date: 11-12-2020
+   Last ran: 05:58
+   On date: 11-12-2020
+   Elapsed time: 00:04:34
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V
+
+   Item #: 158
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_K_Opt
+   Status: Finished
+   Started: 05:53
+   On date: 11-12-2020
+   Last ran: 05:53
+   On date: 11-12-2020
+   Elapsed time: 00:00:31
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V
+
+   Item #: 159
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_K_Opt
+   Status: Finished
+   Started: 05:52
+   On date: 11-12-2020
+   Last ran: 05:53
+   On date: 11-12-2020
+   Elapsed time: 00:01:05
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V
+
+   Item #: 160
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_K_Opt
+   Status: Finished
+   Started: 05:51
+   On date: 11-12-2020
+   Last ran: 05:52
+   On date: 11-12-2020
+   Elapsed time: 00:00:49
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V
+
+   Item #: 161
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_K_Opt
+   Status: Finished
+   Started: 05:51
+   On date: 11-12-2020
+   Last ran: 05:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:15
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V
+
+   Item #: 162
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_K_Opt
+   Status: Finished
+   Started: 05:50
+   On date: 11-12-2020
+   Last ran: 05:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:21
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V
+
+   Item #: 163
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_WSNP_K_Opt
+   Status: Finished
+   Started: 05:50
+   On date: 11-12-2020
+   Last ran: 05:50
+   On date: 11-12-2020
+   Elapsed time: 00:00:16
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_WSNP_V
+
+   Item #: 164
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_K_Opt
+   Status: Finished
+   Started: 05:50
+   On date: 11-12-2020
+   Last ran: 05:50
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V
+
+   Item #: 165
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_K_Opt
+   Status: Finished
+   Started: 05:49
+   On date: 11-12-2020
+   Last ran: 05:50
+   On date: 11-12-2020
+   Elapsed time: 00:00:23
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V
+
+   Item #: 166
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_K_Opt
+   Status: Finished
+   Started: 05:49
+   On date: 11-12-2020
+   Last ran: 05:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:47
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V
+
+   Item #: 167
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_K_Opt
+   Status: Finished
+   Started: 05:48
+   On date: 11-12-2020
+   Last ran: 05:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:45
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V
+
+   Item #: 168
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_K_Opt
+   Status: Finished
+   Started: 05:47
+   On date: 11-12-2020
+   Last ran: 05:48
+   On date: 11-12-2020
+   Elapsed time: 00:01:04
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V
+
+   Item #: 169
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_K_Opt
+   Status: Finished
+   Started: 05:47
+   On date: 11-12-2020
+   Last ran: 05:47
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V
+
+   Item #: 170
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CONSUMER_LOANS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:47
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_CONSUMER_LOANS_V
+
+   Item #: 171
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_CONTACTS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:47
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Load ACS_CDS_IP_K from ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V
+
+   Item #: 172
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KYC_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_KYC_V
+
+   Item #: 173
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_NONWORKINGDAYS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Load ACS_CDS_RI_K from ACS_SAC_TLM_SS_TLM_RI_NONWORKINGDAYS_V
+
+   Item #: 174
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_USERS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_CDS_IP_K from ACS_SAC_TLM_SS_TLM_IP_USERS_V
+
+   Item #: 175
+   Job name: NL_DB_ACS_CDS_SS_TLM_LO_ING_AUCTION_LOCATION_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_CDS_LO_K from ACS_SAC_TLM_SS_TLM_LO_ING_AUCTION_LOCATION_V
+
+   Item #: 176
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_K2_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_CDS_IP_K from ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V
+
+   Item #: 177
+   Job name: NL_DB_ACS_CDS_SS_TLM_CO_ROUTEPOSITIONS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_CDS_CO_K from ACS_SAC_TLM_SS_TLM_CO_ROUTEPOSITIONS_V
+
+   Item #: 178
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_WORKING_DAYS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_CDS_RI_K from ACS_SAC_TLM_SS_TLM_RI_ING_WORKING_DAYS_V
+
+   Item #: 179
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_CDS_RI_K from ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V
+
+   Item #: 180
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_TEAM_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_CDS_IP_K from ACS_SAC_TLM_SS_TLM_IP_TEAM_V
+
+   Item #: 181
+   Job name: NL_DB_ACS_CDS_SS_TLM_IP_ING_PERSON_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_CDS_IP_K from ACS_SAC_TLM_SS_TLM_IP_ING_PERSON_V
+
+   Item #: 182
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_ACTIVITIES_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Load ACS_CDS_CL_K from ACS_SAC_TLM_SS_TLM_CL_ACTIVITIES_V
+
+   Item #: 183
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_CV_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Load ACS_CDS_CL_K from ACS_SAC_TLM_SS_TLM_CL_CV_V
+
+   Item #: 184
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SCM_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Load ACS_CDS_CL_K from ACS_SAC_TLM_SS_TLM_CL_SCM_V
+
+   Item #: 185
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_SEGMENTS_K_Opt
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Load ACS_CDS_CL_K from ACS_SAC_TLM_SS_TLM_CL_SEGMENTS_V
+
+   Item #: 186
+   Job name: NL_DB_TLM_SQ_CDS_K
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 07:07
+   On date: 11-12-2020
+   Elapsed time: 01:21:02
+   Description: 
+
+   Item #: 187
+   Job name: NL_DB_TLM_SQ_CDS
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 07:38
+   On date: 11-12-2020
+   Elapsed time: 01:51:57
+   Description: 
+
+   Item #: 188
+   Job name: NL_DB_ACS_SAC_INJECT_DUMMY_CV
+   Status: Finished
+   Started: 05:46
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:18
+   Description: 
+
+   Item #: 189
+   Job name: NL_DB_ACS_SAC_GET_CL_SUP_KEYs
+   Status: Finished
+   Started: 05:08
+   On date: 11-12-2020
+   Last ran: 05:10
+   On date: 11-12-2020
+   Elapsed time: 00:01:43
+   Description: 
+
+   Item #: 190
+   Job name: NL_DB_TLM_MISSING_CV
+   Status: Finished
+   Started: 05:06
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:40:05
+   Description: 
+
+   Item #: 191
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V from ACS_STG_TLM_W03093_1_ING_ADVISORY
+
+   Item #: 192
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MAGDAT_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 05:06
+   On date: 11-12-2020
+   Elapsed time: 00:06:39
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MAGDAT_V from ACS_STG_TLM_W03123_1_ING_ACCOUNT_MAGDAT
+
+   Item #: 193
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_SEGMENTS_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load: ACS_SAC_TLM_SS_TLM_CL_SEGMENTS_V met del_ind
+
+   Item #: 194
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V from ACS_STG_TLM_W03092_1_ING_ADVICE_OFFICER
+
+   Item #: 195
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load: ACS_SAC_TLM_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I met del_ind
+
+   Item #: 196
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V from ACS_STG_TLM_W03113_1_ING_VERKOOP_MET_TEKORT
+
+   Item #: 197
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_CONSUMER_LOANS_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_CONSUMER_LOANS_V from ACS_STG_TLM_W03182_1_ING_CONSUMER_LOANS
+
+   Item #: 198
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:15
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V from ACS_STG_TLM_W03011_1_ING_ACCT_COLLECT_ACTIVITIES
+
+   Item #: 199
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_FA_NHG_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_FA_NHG_V from ACS_STG_TLM_W03100_1_ING_FA_NHG
+
+   Item #: 200
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V met del_ind
+
+   Item #: 201
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V from ACS_STG_TLM_W03178_1_ING_SHV
+
+   Item #: 202
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_LO_ING_AUCTION_LOCATION_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_LO_ING_AUCTION_LOCATION_V from ACS_STG_TLM_W03095_1_ING_AUCTION_LOCATION
+
+   Item #: 203
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V from ACS_STG_TLM_W03057_1_ING_KLANTBEZOEK
+
+   Item #: 204
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V from ACS_STG_TLM_W03127_1_ING_COSTS
+
+   Item #: 205
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V from ACS_STG_TLM_W03061_1_ING_MORTGAGE_COLLATERAL
+
+   Item #: 206
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_DOEDAT_REQUEST_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_DOEDAT_REQUEST_V from ACS_STG_TLM_W03162_1_ING_DOEDAT_REQUEST
+
+   Item #: 207
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V from ACS_STG_TLM_W03171_1_ING_DCA
+
+   Item #: 208
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_RI_NONWORKINGDAYS_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_RI_NONWORKINGDAYS_V from ACS_STG_TLM_W03084_1_NONWORKINGDAYS
+
+   Item #: 209
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V_Opt
+   Status: Finished
+   Started: 04:59
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:13
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V from ACS_STG_TLM_W03107_1_ING_MORTGAGE_COLL_SEIZURE
+
+   Item #: 210
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_WSNP_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_WSNP_V from ACS_STG_TLM_W03120_1_ING_WSNP
+
+   Item #: 211
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_VEILEN_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_VEILEN_V from ACS_STG_TLM_W03112_1_ING_VEILEN
+
+   Item #: 212
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V from ACS_STG_TLM_W03165_1_ING_SME_CURRENT_ACCOUNT
+
+   Item #: 213
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:11
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_UPDATE_ZEKERHEDEN_V from ACS_STG_TLM_W03109_1_ING_UPDATE_ZEKERHEDEN
+
+   Item #: 214
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_ING_PERSON_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:11
+   Description: Load:ACS_SAC_TLM_SS_TLM_IP_ING_PERSON_V met del_ind
+
+   Item #: 215
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_CV_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:59
+   On date: 11-12-2020
+   Elapsed time: 00:00:29
+   Description: Load BLS_SAC_CL_CV_V
+
+   Item #: 216
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:39
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V from ACS_STG_TLM_W03141_1_ING_MORTGAGE_ADD_INFO
+
+   Item #: 217
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_FA_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:45
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_FA_V from ACS_STG_TLM_W03172_1_ING_FA
+
+   Item #: 218
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:50
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V from ACS_STG_TLM_W03181_1_ING_UNSECURED_PRODUCTS
+
+   Item #: 219
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_EV_ACCOUNTACTIVITIES_I_Opt
+   Status: Finished
+   Started: 04:58
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:48
+   Description: Load: ACS_SAC_TLM_SS_TLM_EV_ACCOUNTACTIVITIES_I met del_ind
+
+   Item #: 220
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:51
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V from ACS_STG_TLM_W03177_1_ING_LOANS
+
+   Item #: 221
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_SCM_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load BLS_SAC_CL_SCM_V
+
+   Item #: 222
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:50
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V from ACS_STG_TLM_W03167_1_ING_ACCT_COLLECTIONS
+
+   Item #: 223
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:58
+   On date: 11-12-2020
+   Elapsed time: 00:00:19
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V from ACS_STG_TLM_W03147_1_ING_RP_RS
+
+   Item #: 224
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_RI_ING_WORKING_DAYS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:11
+   Description: Load: ACS_SAC_TLM_SS_TLM_RI_ING_WORKING_DAYS_V met del_ind
+
+   Item #: 225
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_USERS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:11
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_USERS_V met del_ind
+
+   Item #: 226
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V from ACS_STG_TLM_W03174_1_ING_PER_COLLECT_ACTIVITIES
+
+   Item #: 227
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CO_ROUTEPOSITIONS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load: ACS_SAC_TLM_SS_TLM_CO_ROUTEPOSITIONS_V met del_ind
+
+   Item #: 228
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_BANKSAVINGS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_BANKSAVINGS_V from ACS_STG_TLM_W03050_1_ING_BANKSAVINGS
+
+   Item #: 229
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V from ACS_STG_TLM_W03142_1_ING_NHG_GIB_DOSSIERRAPPORTA
+
+   Item #: 230
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_ACTIVITIES_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_CL_ACTIVITIES_V met del_ind
+
+   Item #: 231
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R met del_ind
+
+   Item #: 232
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V from ACS_STG_TLM_W03173_1_ING_HYPOS_CALENDER
+
+   Item #: 233
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST met del_ind
+
+   Item #: 234
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_AFSCHEID_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_AFSCHEID_V from ACS_STG_TLM_W03047_1_ING_AFSCHEID
+
+   Item #: 235
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_TEAM_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_TEAM_V met del_ind
+
+   Item #: 236
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V from ACS_STG_TLM_W03168_1_ING_ACCOUNT
+
+   Item #: 237
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V from ACS_STG_TLM_W03160_1_ING_CURRENT_ACCOUNT
+
+   Item #: 238
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V from ACS_STG_TLM_W03170_1_ING_BANKRUPTCY
+
+   Item #: 239
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V met del_ind
+
+   Item #: 240
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V from ACS_STG_TLM_W03164_1_ING_ORGANISATIONS
+
+   Item #: 241
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V met del_ind
+
+   Item #: 242
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V_Opt
+   Status: Finished
+   Started: 04:57
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V met del_ind
+
+   Item #: 243
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V from ACS_STG_TLM_W03049_1_ING_ARRANGEMENT_MANUAL
+
+   Item #: 244
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V met del_ind
+
+   Item #: 245
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:57
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V from ACS_STG_TLM_W03159_1_ING_MORTGAGE_ACCOUNT
+
+   Item #: 246
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V met del_ind
+
+   Item #: 247
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V from ACS_STG_TLM_W03175_1_ING_VOC
+
+   Item #: 248
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V met del_ind
+
+   Item #: 249
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_KYC_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_KYC_V from ACS_STG_TLM_W03184_1_ING_KYC
+
+   Item #: 250
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:12
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V met del_ind
+
+   Item #: 251
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V_Opt
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V from ACS_STG_TLM_W03169_1_ING_ARRANGEMENT
+
+   Item #: 252
+   Job name: NL_DB_TLM_SQ_SAC
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 05:46
+   On date: 11-12-2020
+   Elapsed time: 00:50:07
+   Description: 
+
+   Item #: 253
+   Job name: NL_DB_CTL_VAL_BREAK
+   Status: Finished
+   Started: 04:56
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:00:03
+   Description: 
+
+   Item #: 254
+   Job name: NL_DB_TLM_SQ_VAL_MEASURE.NL_DB_TLM_SQ_VAL_MEASURE
+   Status: Finished
+   Started: 04:51
+   On date: 11-12-2020
+   Last ran: 04:54
+   On date: 11-12-2020
+   Elapsed time: 00:02:53
+   Description: Description NL_DB_TLM_SQ_VAL:_MEASURES
+-----------------------------------------------------------------------------------------------------------------
+Job to call the acs_is_run_VAL.sh script to execute DQ measuremenst on STG tables after flat files have been loaded
+
+   Item #: 255
+   Job name: NL_DB_TLM_SQ_STG_VAL_MAIN
+   Status: Finished
+   Started: 04:51
+   On date: 11-12-2020
+   Last ran: 04:56
+   On date: 11-12-2020
+   Elapsed time: 00:04:53
+   Description: Description NL_DB_TLM_SQ_STG_VAL
+--------------------------------------------------------------------------------------------------------------------------------------
+Execute DQ proces named Veritas Abandon Load. First collect data and load measurements table and error log. Then check to_days measurements against error tresshold and produce error incase of violations. 
+
+   Item #: 256
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03184
+   Status: Finished
+   Started: 04:51
+   On date: 11-12-2020
+   Last ran: 04:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:12
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 257
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03183
+   Status: Finished
+   Started: 04:51
+   On date: 11-12-2020
+   Last ran: 04:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 258
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03182
+   Status: Finished
+   Started: 04:50
+   On date: 11-12-2020
+   Last ran: 04:51
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 259
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03181
+   Status: Finished
+   Started: 04:50
+   On date: 11-12-2020
+   Last ran: 04:50
+   On date: 11-12-2020
+   Elapsed time: 00:00:49
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 260
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03180
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:50
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 261
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03179
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 262
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03178
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 263
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03177
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 264
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03176
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 265
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03175
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 266
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03174
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 267
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03173
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 268
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03172
+   Status: Finished
+   Started: 04:49
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 269
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03171
+   Status: Finished
+   Started: 04:48
+   On date: 11-12-2020
+   Last ran: 04:49
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 270
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03170
+   Status: Finished
+   Started: 04:48
+   On date: 11-12-2020
+   Last ran: 04:48
+   On date: 11-12-2020
+   Elapsed time: 00:00:11
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 271
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03169
+   Status: Finished
+   Started: 04:48
+   On date: 11-12-2020
+   Last ran: 04:48
+   On date: 11-12-2020
+   Elapsed time: 00:00:40
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 272
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03168
+   Status: Finished
+   Started: 04:47
+   On date: 11-12-2020
+   Last ran: 04:48
+   On date: 11-12-2020
+   Elapsed time: 00:00:27
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 273
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03167
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:47
+   On date: 11-12-2020
+   Elapsed time: 00:00:40
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 274
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03166
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 275
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03165
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 276
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03164
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 277
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03163
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 278
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03162
+   Status: Finished
+   Started: 04:46
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 279
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03160
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:46
+   On date: 11-12-2020
+   Elapsed time: 00:00:40
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 280
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03159
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 281
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03157
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 282
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03148
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 283
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03147
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 284
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03142
+   Status: Finished
+   Started: 04:45
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 285
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03141
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:45
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 286
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03131
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 287
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03129
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 288
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03127
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 289
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03123
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:19
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 290
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03120
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 291
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03119
+   Status: Finished
+   Started: 04:44
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 292
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03117
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:44
+   On date: 11-12-2020
+   Elapsed time: 00:00:10
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 293
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03116
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 294
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03114
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 295
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03113
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 296
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03112
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 297
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03111
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 298
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03110
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:03
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 299
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03109
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 300
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03107
+   Status: Finished
+   Started: 04:43
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 301
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03103
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:43
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 302
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03102
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:12
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 303
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03101
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:18
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 304
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03100
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 305
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03096
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 306
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03095
+   Status: Finished
+   Started: 04:42
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 307
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03093
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:42
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 308
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03092
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 309
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03084
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:14
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 310
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03081
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 311
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03074
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 312
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03073
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 313
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03063
+   Status: Finished
+   Started: 04:41
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 314
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03061
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:41
+   On date: 11-12-2020
+   Elapsed time: 00:00:17
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 315
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03059
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 316
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03058
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 317
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03057
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 318
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03056
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 319
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03055
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 320
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03054
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 321
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03053
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 322
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03052
+   Status: Finished
+   Started: 04:40
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 323
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03051
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:40
+   On date: 11-12-2020
+   Elapsed time: 00:00:03
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 324
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03050
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 325
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03049
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 326
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03048
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 327
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03047
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 328
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03046
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:21
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 329
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03041
+   Status: Finished
+   Started: 04:39
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 330
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03038
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:39
+   On date: 11-12-2020
+   Elapsed time: 00:00:22
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 331
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03036
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 332
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03035
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 333
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03034
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 334
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03033
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 335
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03031
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 336
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03029
+   Status: Finished
+   Started: 04:38
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 337
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03027
+   Status: Finished
+   Started: 04:37
+   On date: 11-12-2020
+   Last ran: 04:38
+   On date: 11-12-2020
+   Elapsed time: 00:00:12
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 338
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03026
+   Status: Finished
+   Started: 04:37
+   On date: 11-12-2020
+   Last ran: 04:37
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 339
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03025
+   Status: Finished
+   Started: 04:37
+   On date: 11-12-2020
+   Last ran: 04:37
+   On date: 11-12-2020
+   Elapsed time: 00:00:07
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 340
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03024
+   Status: Finished
+   Started: 04:36
+   On date: 11-12-2020
+   Last ran: 04:37
+   On date: 11-12-2020
+   Elapsed time: 00:00:54
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 341
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03017
+   Status: Finished
+   Started: 04:36
+   On date: 11-12-2020
+   Last ran: 04:36
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 342
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03016
+   Status: Finished
+   Started: 04:36
+   On date: 11-12-2020
+   Last ran: 04:36
+   On date: 11-12-2020
+   Elapsed time: 00:00:04
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 343
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03015
+   Status: Finished
+   Started: 04:36
+   On date: 11-12-2020
+   Last ran: 04:36
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 344
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03014
+   Status: Finished
+   Started: 04:36
+   On date: 11-12-2020
+   Last ran: 04:36
+   On date: 11-12-2020
+   Elapsed time: 00:00:12
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 345
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03013
+   Status: Finished
+   Started: 04:35
+   On date: 11-12-2020
+   Last ran: 04:36
+   On date: 11-12-2020
+   Elapsed time: 00:00:59
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 346
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03011
+   Status: Finished
+   Started: 04:33
+   On date: 11-12-2020
+   Last ran: 04:35
+   On date: 11-12-2020
+   Elapsed time: 00:01:48
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 347
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03010
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:33
+   On date: 11-12-2020
+   Elapsed time: 00:00:27
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 348
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03009
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:00:09
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 349
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03008
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:00:05
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 350
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03007
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:00:17
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 351
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03005
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:00:06
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 352
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03003
+   Status: Finished
+   Started: 04:32
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:00:08
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 353
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03002
+   Status: Finished
+   Started: 04:27
+   On date: 11-12-2020
+   Last ran: 04:32
+   On date: 11-12-2020
+   Elapsed time: 00:04:42
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 354
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03001
+   Status: Finished
+   Started: 04:25
+   On date: 11-12-2020
+   Last ran: 04:27
+   On date: 11-12-2020
+   Elapsed time: 00:01:41
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 355
+   Job name: NL_DB_TLM_SQ_NZLOAD.W03000
+   Status: Finished
+   Started: 04:24
+   On date: 11-12-2020
+   Last ran: 04:25
+   On date: 11-12-2020
+   Elapsed time: 00:01:14
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 356
+   Job name: NL_DB_TLM_SQ_STG
+   Status: Finished
+   Started: 04:24
+   On date: 11-12-2020
+   Last ran: 04:51
+   On date: 11-12-2020
+   Elapsed time: 00:26:58
+   Description: Description NL_DB_TLM_SQ_STG
+--------------------------------------------------------------------------------------------------------------------------------------
+Load all the staging tables for TLM flat files
+
+   Item #: 357
+   Job name: NL_DB_TLM_SQ_D6_MAIN
+   Status: Finished
+   Started: 04:24
+   On date: 11-12-2020
+   Last ran: 07:51
+   On date: 11-12-2020
+   Elapsed time: 03:26:55
+   Description: Description NL_DB_TLM_SQ_D6_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence TLM flat file processing. 
+
+   Item #: 358
+   Job name: XCO_JP_Start_Job_Run.16076567830474020806000000331326631509138173324960
+   Status: Finished
+   Started: 04:23
+   On date: 11-12-2020
+   Last ran: 04:24
+   On date: 11-12-2020
+   Elapsed time: 00:00:23
+   Description: Set the status of the run of the flow.
+
+   Item #: 359
+   Job name: XCO_SQ_Start_Job.16076567830474020806000000331326631509138173324960
+   Status: Finished
+   Started: 04:19
+   On date: 11-12-2020
+   Last ran: 07:51
+   On date: 11-12-2020
+   Elapsed time: 03:31:51
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 360
+   Job name: XCO_JP_Update_Job_Run.16075733540179136242000001533578954305740275079700
+   Status: Finished
+   Started: 13:55
+   On date: 10-12-2020
+   Last ran: 13:55
+   On date: 10-12-2020
+   Elapsed time: 00:00:13
+   Description: Set the status of the run of the flow.
+
+   Item #: 361
+   Job name: XCO_JP_Start_Job_Run.16075733540179136242000001533578954305740275079700
+   Status: Finished
+   Started: 05:09
+   On date: 10-12-2020
+   Last ran: 05:10
+   On date: 10-12-2020
+   Elapsed time: 00:00:36
+   Description: Set the status of the run of the flow.
+
+   Item #: 362
+   Job name: XCO_SQ_Start_Job.16075733540179136242000001533578954305740275079700
+   Status: Finished
+   Started: 05:09
+   On date: 10-12-2020
+   Last ran: 13:55
+   On date: 10-12-2020
+   Elapsed time: 08:46:06
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 363
+   Job name: XCO_JP_Update_Job_Run.16074839510567352283000002297185291249347405694150
+   Status: Finished
+   Started: 16:18
+   On date: 9-12-2020
+   Last ran: 16:18
+   On date: 9-12-2020
+   Elapsed time: 00:00:11
+   Description: Set the status of the run of the flow.
+
+   Item #: 364
+   Job name: XCO_JP_Start_Job_Run.16074839510567352283000002297185291249347405694150
+   Status: Finished
+   Started: 04:19
+   On date: 9-12-2020
+   Last ran: 04:22
+   On date: 9-12-2020
+   Elapsed time: 00:03:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 365
+   Job name: XCO_SQ_Start_Job.16074839510567352283000002297185291249347405694150
+   Status: Finished
+   Started: 04:19
+   On date: 9-12-2020
+   Last ran: 16:18
+   On date: 9-12-2020
+   Elapsed time: 11:59:28
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 366
+   Job name: XCO_JP_Update_Job_Run.16073968310156633138000001254436190257370662236600
+   Status: Finished
+   Started: 08:03
+   On date: 8-12-2020
+   Last ran: 08:03
+   On date: 8-12-2020
+   Elapsed time: 00:00:31
+   Description: Set the status of the run of the flow.
+
+   Item #: 367
+   Job name: XCO_JP_Start_Job_Run.16073968310156633138000001254436190257370662236600
+   Status: Finished
+   Started: 04:08
+   On date: 8-12-2020
+   Last ran: 04:10
+   On date: 8-12-2020
+   Elapsed time: 00:02:16
+   Description: Set the status of the run of the flow.
+
+   Item #: 368
+   Job name: XCO_SQ_Start_Job.16073968310156633138000001254436190257370662236600
+   Status: Finished
+   Started: 04:07
+   On date: 8-12-2020
+   Last ran: 08:03
+   On date: 8-12-2020
+   Elapsed time: 03:56:44
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 369
+   Job name: XCO_JP_Update_Job_Run.16073263430735357238000001438689485226786232415890
+   Status: Finished
+   Started: 09:48
+   On date: 7-12-2020
+   Last ran: 09:49
+   On date: 7-12-2020
+   Elapsed time: 00:00:17
+   Description: Set the status of the run of the flow.
+
+   Item #: 370
+   Job name: XCO_JP_Start_Job_Run.16073263430735357238000001438689485226786232415890
+   Status: Finished
+   Started: 08:32
+   On date: 7-12-2020
+   Last ran: 08:32
+   On date: 7-12-2020
+   Elapsed time: 00:00:16
+   Description: Set the status of the run of the flow.
+
+   Item #: 371
+   Job name: XCO_SQ_Start_Job.16073263430735357238000001438689485226786232415890
+   Status: Finished
+   Started: 08:32
+   On date: 7-12-2020
+   Last ran: 09:49
+   On date: 7-12-2020
+   Elapsed time: 01:16:44
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 372
+   Job name: XCO_JP_Update_Job_Run.16071372170575020780000000756830165231984545670950
+   Status: Finished
+   Started: 07:47
+   On date: 5-12-2020
+   Last ran: 07:48
+   On date: 5-12-2020
+   Elapsed time: 00:00:17
+   Description: Set the status of the run of the flow.
+
+   Item #: 373
+   Job name: XCO_JP_Start_Job_Run.16071372170575020780000000756830165231984545670950
+   Status: Finished
+   Started: 04:00
+   On date: 5-12-2020
+   Last ran: 04:00
+   On date: 5-12-2020
+   Elapsed time: 00:00:02
+   Description: Set the status of the run of the flow.
+
+   Item #: 374
+   Job name: XCO_SQ_Start_Job.16071372170575020780000000756830165231984545670950
+   Status: Finished
+   Started: 04:00
+   On date: 5-12-2020
+   Last ran: 07:48
+   On date: 5-12-2020
+   Elapsed time: 03:47:56
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 375
+   Job name: XCO_JP_Update_Job_Run.16070522350013071897000002329828229814549062206730
+   Status: Finished
+   Started: 13:18
+   On date: 4-12-2020
+   Last ran: 13:19
+   On date: 4-12-2020
+   Elapsed time: 00:01:05
+   Description: Set the status of the run of the flow.
+
+   Item #: 376
+   Job name: XCO_JP_Start_Job_Run.16070522350013071897000002329828229814549062206730
+   Status: Finished
+   Started: 04:26
+   On date: 4-12-2020
+   Last ran: 04:26
+   On date: 4-12-2020
+   Elapsed time: 00:00:19
+   Description: Set the status of the run of the flow.
+
+   Item #: 377
+   Job name: XCO_SQ_Start_Job.16070522350013071897000002329828229814549062206730
+   Status: Finished
+   Started: 04:23
+   On date: 4-12-2020
+   Last ran: 13:19
+   On date: 4-12-2020
+   Elapsed time: 08:55:40
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 378
+   Job name: XCO_JP_Log_Err.16069888240280361695000000763862719358653007885600
+   Status: Finished
+   Started: 11:12
+   On date: 3-12-2020
+   Last ran: 11:12
+   On date: 3-12-2020
+   Elapsed time: 00:00:14
+   Description: Set the status of the run of the flow.
+
+   Item #: 379
+   Job name: XCO_JP_Log_Err.16069873110655996288000001896047119803729130858290
+   Status: Finished
+   Started: 10:39
+   On date: 3-12-2020
+   Last ran: 10:40
+   On date: 3-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 380
+   Job name: XCO_JP_Log_Err.16069840620067135354000002573313450952224250249130
+   Status: Finished
+   Started: 10:07
+   On date: 3-12-2020
+   Last ran: 10:08
+   On date: 3-12-2020
+   Elapsed time: 00:00:08
+   Description: Set the status of the run of the flow.
+
+   Item #: 381
+   Job name: XCO_JP_Log_Err.16069768770697090978000001160939171414123974269200
+   Status: Finished
+   Started: 08:01
+   On date: 3-12-2020
+   Last ran: 08:01
+   On date: 3-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 382
+   Job name: XCO_JP_Log_Err.16067916230460833246000002587045014734600151675050
+   Status: Finished
+   Started: 08:15
+   On date: 1-12-2020
+   Last ran: 08:15
+   On date: 1-12-2020
+   Elapsed time: 00:00:09
+   Description: Set the status of the run of the flow.
+
+   Item #: 383
+   Job name: XCO_JP_Exception_Log_Err.15894252660469484304000003071260424741942682420000
+   Status: Has been reset
+   Started: 08:11
+   On date: 14-5-2020
+   Last ran: 08:11
+   On date: 14-5-2020
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 384
+   Job name: XCO_JP_Start_Job_Run.15894252660469484304000003071260424741942682420000
+   Status: Has been reset
+   Started: 08:11
+   On date: 14-5-2020
+   Last ran: 08:11
+   On date: 14-5-2020
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 385
+   Job name: XCO_SQ_Start_Job.15894252660469484304000003071260424741942682420000
+   Status: Has been reset
+   Started: 08:10
+   On date: 14-5-2020
+   Last ran: 08:10
+   On date: 14-5-2020
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 386
+   Job name: CHECK_PDA_ACCESS_IS
+   Status: Finished
+   Started: 00:27
+   On date: 16-2-2020
+   Last ran: 00:27
+   On date: 16-2-2020
+   Elapsed time: 
+   Description: Check DataStage connection to PDA
+
+   Item #: 387
+   Job name: NL_DB_ACS_SQ_DQAD_LD_HIST
+   Status: Finished
+   Started: 01:12
+   On date: 10-12-2019
+   Last ran: 01:12
+   On date: 10-12-2019
+   Elapsed time: 00:00:33
+   Description: 
+
+   Item #: 388
+   Job name: XCO_JP_Log_Err.15687174460239861076000002989413926051913038660040
+   Status: Has been reset
+   Started: 10:19
+   On date: 1-11-2019
+   Last ran: 10:19
+   On date: 1-11-2019
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 389
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_K_Opt
+   Status: Compiled
+   Started: 16:02
+   On date: 24-9-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V
+
+   Item #: 390
+   Job name: XCO_JP_Exception_Log_Err.15687174460239861076000002989413926051913038660040
+   Status: Finished
+   Started: 13:07
+   On date: 17-9-2019
+   Last ran: 13:07
+   On date: 17-9-2019
+   Elapsed time: 00:00:02
+   Description: Set the status of the run of the flow.
+
+   Item #: 391
+   Job name: XCO_JP_Start_Job_Run.15639255070863815923000002017927641358411908251520
+   Status: Finished
+   Started: 01:47
+   On date: 24-7-2019
+   Last ran: 01:47
+   On date: 24-7-2019
+   Elapsed time: 00:00:03
+   Description: Set the status of the run of the flow.
+
+   Item #: 392
+   Job name: XCO_SQ_Start_Job.15542762720707335704000001046691179695661676469730
+   Status: Has been reset
+   Started: 11:07
+   On date: 3-4-2019
+   Last ran: 11:07
+   On date: 3-4-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 393
+   Job name: XCO_SQ_Start_Job.15541829040580566388000001697348145495150267672810
+   Status: Has been reset
+   Started: 08:31
+   On date: 2-4-2019
+   Last ran: 08:31
+   On date: 2-4-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 394
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BKR_REGISTRATION_V_Opt
+   Status: Finished
+   Started: 11:59
+   On date: 1-4-2019
+   Last ran: 12:00
+   On date: 1-4-2019
+   Elapsed time: 00:00:05
+   Description: 
+
+   Item #: 395
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BKR_REGISTRATION_V_D_Opt
+   Status: Finished
+   Started: 11:56
+   On date: 1-4-2019
+   Last ran: 11:56
+   On date: 1-4-2019
+   Elapsed time: 00:00:13
+   Description: 
+
+   Item #: 396
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BKR_REGISTRATION_K_Opt
+   Status: Finished
+   Started: 11:43
+   On date: 1-4-2019
+   Last ran: 11:43
+   On date: 1-4-2019
+   Elapsed time: 00:00:17
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_BKR_REGISTRATION_V
+
+   Item #: 397
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_BKR_REGISTRATION_V_Opt
+   Status: Finished
+   Started: 10:45
+   On date: 1-4-2019
+   Last ran: 10:45
+   On date: 1-4-2019
+   Elapsed time: 00:00:07
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_BKR_REGISTRATION_V from ACS_STG_TLM_W03161_1_ING_BKR_REGISTRATION
+
+   Item #: 398
+   Job name: XCO_SQ_Start_Job.15539166170594510533000001850559484519179323265220
+   Status: Has been reset
+   Started: 09:33
+   On date: 1-4-2019
+   Last ran: 09:33
+   On date: 1-4-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 399
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V
+   Status: Compiled
+   Started: 16:34
+   On date: 28-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V from ACS_STG_TLM_W03175_1_ING_VOC
+
+   Item #: 400
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V
+   Status: Compiled
+   Started: 16:29
+   On date: 28-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V from ACS_STG_TLM_W03169_1_ING_ARRANGEMENT
+
+   Item #: 401
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V
+   Status: Compiled
+   Started: 16:14
+   On date: 28-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V from ACS_STG_TLM_W03160_1_ING_CURRENT_ACCOUNT
+
+   Item #: 402
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V
+   Status: Compiled
+   Started: 16:07
+   On date: 28-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V from ACS_STG_TLM_W03168_1_ING_ACCOUNT
+
+   Item #: 403
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_CV_V
+   Status: Compiled
+   Started: 13:46
+   On date: 27-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load BLS_SAC_CL_CV_V
+
+   Item #: 404
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V
+   Status: Compiled
+   Started: 11:02
+   On date: 27-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_VERKOOP_MET_TEKORT_V from ACS_STG_TLM_W03113_1_ING_VERKOOP_MET_TEKORT
+
+   Item #: 405
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V
+   Status: Compiled
+   Started: 16:24
+   On date: 26-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V from ACS_STG_TLM_W03011_1_ING_ACCT_COLLECT_ACTIVITIES
+
+   Item #: 406
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V_Opt
+   Status: Compiled
+   Started: 14:06
+   On date: 26-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V from ACS_STG_TLM_W03147_1_ING_RP_RS
+
+   Item #: 407
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V
+   Status: Compiled
+   Started: 18:28
+   On date: 21-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V from ACS_STG_TLM_W03177_1_ING_LOANS
+
+   Item #: 408
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V
+   Status: Compiled
+   Started: 18:26
+   On date: 21-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V from ACS_STG_TLM_W03159_1_ING_MORTGAGE_ACCOUNT
+
+   Item #: 409
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_V
+   Status: Compiled
+   Started: 09:32
+   On date: 21-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 410
+   Job name: XCO_SQ_Start_Job.15525342170602530404000003062854388025762001974000
+   Status: Has been reset
+   Started: 11:51
+   On date: 14-3-2019
+   Last ran: 11:51
+   On date: 14-3-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 411
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V
+   Status: Compiled
+   Started: 11:06
+   On date: 13-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 412
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_V
+   Status: Compiled
+   Started: 15:38
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 413
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V
+   Status: Compiled
+   Started: 15:27
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 414
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V
+   Status: Compiled
+   Started: 15:20
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 415
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_V
+   Status: Compiled
+   Started: 15:18
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 416
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_V
+   Status: Compiled
+   Started: 14:39
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 417
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_V
+   Status: Compiled
+   Started: 14:31
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 418
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_V
+   Status: Compiled
+   Started: 14:04
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 419
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_V_D
+   Status: Compiled
+   Started: 13:35
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 420
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_V
+   Status: Compiled
+   Started: 13:22
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 421
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_V_D
+   Status: Compiled
+   Started: 12:18
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 422
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_V
+   Status: Compiled
+   Started: 11:56
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 423
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_V_D
+   Status: Compiled
+   Started: 11:23
+   On date: 12-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 424
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V
+   Status: Compiled
+   Started: 13:40
+   On date: 11-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V from ACS_STG_TLM_W03181_1_ING_UNSECURED_PRODUCTS
+
+   Item #: 425
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V
+   Status: Compiled
+   Started: 12:17
+   On date: 11-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V from ACS_STG_TLM_W03178_1_ING_SHV
+
+   Item #: 426
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V
+   Status: Compiled
+   Started: 11:06
+   On date: 11-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V from ACS_STG_TLM_W03164_1_ING_ORGANISATIONS
+
+   Item #: 427
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_V
+   Status: Compiled
+   Started: 14:56
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 428
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V
+   Status: Compiled
+   Started: 14:54
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 429
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V
+   Status: Compiled
+   Started: 14:52
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 430
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V
+   Status: Compiled
+   Started: 14:51
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 431
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_V
+   Status: Compiled
+   Started: 14:47
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 432
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_V
+   Status: Compiled
+   Started: 14:47
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 433
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_V
+   Status: Compiled
+   Started: 14:45
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 434
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_V
+   Status: Compiled
+   Started: 14:44
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 435
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_V
+   Status: Compiled
+   Started: 14:43
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 436
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V
+   Status: Compiled
+   Started: 14:39
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 437
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V
+   Status: Compiled
+   Started: 14:38
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 438
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_V
+   Status: Compiled
+   Started: 14:33
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 439
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V
+   Status: Compiled
+   Started: 14:29
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 440
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V_D
+   Status: Compiled
+   Started: 14:25
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 441
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V
+   Status: Compiled
+   Started: 14:24
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 442
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_V_D
+   Status: Compiled
+   Started: 14:22
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 443
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_V_D
+   Status: Compiled
+   Started: 14:20
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 444
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_V_D
+   Status: Compiled
+   Started: 14:16
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 445
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V_D
+   Status: Compiled
+   Started: 14:14
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 446
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V_D
+   Status: Compiled
+   Started: 14:13
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 447
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_V_D
+   Status: Compiled
+   Started: 14:09
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 448
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V_D
+   Status: Compiled
+   Started: 14:00
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 449
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_V_D
+   Status: Compiled
+   Started: 13:24
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 450
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_V_D
+   Status: Compiled
+   Started: 13:23
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 451
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V_D
+   Status: Compiled
+   Started: 13:21
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 452
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_V_D
+   Status: Compiled
+   Started: 13:18
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 453
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V_D
+   Status: Compiled
+   Started: 13:16
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 454
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V_D
+   Status: Compiled
+   Started: 13:13
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 455
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_V
+   Status: Compiled
+   Started: 11:59
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 456
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_V
+   Status: Compiled
+   Started: 11:26
+   On date: 7-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 457
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V_D
+   Status: Compiled
+   Started: 17:15
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 458
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_V_D
+   Status: Compiled
+   Started: 17:08
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 459
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V_D
+   Status: Compiled
+   Started: 17:05
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 460
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_V_D
+   Status: Compiled
+   Started: 17:02
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 461
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V_D
+   Status: Compiled
+   Started: 16:59
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 462
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_V_D
+   Status: Compiled
+   Started: 16:57
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 463
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_V_D
+   Status: Compiled
+   Started: 16:54
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 464
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_V_D
+   Status: Compiled
+   Started: 16:51
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 465
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_V_D
+   Status: Compiled
+   Started: 16:29
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 466
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_V_D
+   Status: Compiled
+   Started: 13:48
+   On date: 6-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 467
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V
+   Status: Compiled
+   Started: 12:44
+   On date: 5-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V from ACS_STG_TLM_W03167_1_ING_ACCT_COLLECTIONS
+
+   Item #: 468
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_RP_RS_K
+   Status: Compiled
+   Started: 18:54
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_RP_RS_V
+
+   Item #: 469
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_K
+   Status: Compiled
+   Started: 18:51
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V
+
+   Item #: 470
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_UNSECURED_PRODUCTS_K
+   Status: Compiled
+   Started: 18:45
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_UNSECURED_PRODUCTS_V
+
+   Item #: 471
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SHV_K
+   Status: Compiled
+   Started: 18:43
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_SHV_V
+
+   Item #: 472
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_K
+   Status: Compiled
+   Started: 18:13
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V
+
+   Item #: 473
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_VOC_K
+   Status: Compiled
+   Started: 17:43
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_VOC_V
+
+   Item #: 474
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_BANKRUPTCY_K
+   Status: Compiled
+   Started: 17:11
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V
+
+   Item #: 475
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_LOANS_K
+   Status: Compiled
+   Started: 11:14
+   On date: 4-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_LOANS_V
+
+   Item #: 476
+   Job name: XCO_SQ_Start_Job.15516702120437828489000002504517365787652947394330
+   Status: Has been reset
+   Started: 08:20
+   On date: 4-3-2019
+   Last ran: 08:20
+   On date: 4-3-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 477
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V
+   Status: Compiled
+   Started: 16:57
+   On date: 1-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V from ACS_STG_TLM_W03057_1_ING_KLANTBEZOEK
+
+   Item #: 478
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V
+   Status: Compiled
+   Started: 15:33
+   On date: 1-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V from ACS_STG_TLM_W03174_1_ING_PER_COLLECT_ACTIVITIES
+
+   Item #: 479
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V
+   Status: Compiled
+   Started: 15:30
+   On date: 1-3-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V from ACS_STG_TLM_W03173_1_ING_HYPOS_CALENDER
+
+   Item #: 480
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_K
+   Status: Compiled
+   Started: 17:29
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V
+
+   Item #: 481
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_K
+   Status: Compiled
+   Started: 17:28
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V
+
+   Item #: 482
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_KLANTBEZOEK_K
+   Status: Compiled
+   Started: 17:28
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_KLANTBEZOEK_V
+
+   Item #: 483
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_COSTS_K
+   Status: Compiled
+   Started: 17:28
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V
+
+   Item #: 484
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_K
+   Status: Compiled
+   Started: 17:27
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V
+
+   Item #: 485
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVISORY_K
+   Status: Compiled
+   Started: 17:27
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V
+
+   Item #: 486
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ADVICE_OFFICER_K
+   Status: Compiled
+   Started: 17:26
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V
+
+   Item #: 487
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_K
+   Status: Compiled
+   Started: 17:22
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECT_ACTIVITIES_V
+
+   Item #: 488
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_FA_V
+   Status: Compiled
+   Started: 15:06
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_FA_V from ACS_STG_TLM_W03172_1_ING_FA
+
+   Item #: 489
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V
+   Status: Compiled
+   Started: 14:58
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V from ACS_STG_TLM_W03171_1_ING_DCA
+
+   Item #: 490
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V
+   Status: Compiled
+   Started: 14:49
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_BANKRUPTCY_V from ACS_STG_TLM_W03170_1_ING_BANKRUPTCY
+
+   Item #: 491
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V
+   Status: Compiled
+   Started: 14:25
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V from ACS_STG_TLM_W03165_1_ING_SME_CURRENT_ACCOUNT
+
+   Item #: 492
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V
+   Status: Compiled
+   Started: 12:30
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ADVICE_OFFICER_V from ACS_STG_TLM_W03092_1_ING_ADVICE_OFFICER
+
+   Item #: 493
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V
+   Status: Compiled
+   Started: 12:24
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLLATERAL_V from ACS_STG_TLM_W03061_1_ING_MORTGAGE_COLLATERAL
+
+   Item #: 494
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V
+   Status: Compiled
+   Started: 12:22
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ADVISORY_V from ACS_STG_TLM_W03093_1_ING_ADVISORY
+
+   Item #: 495
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V
+   Status: Compiled
+   Started: 11:59
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_COLL_SEIZURE_V from ACS_STG_TLM_W03107_1_ING_MORTGAGE_COLL_SEIZURE
+
+   Item #: 496
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_WSNP_V
+   Status: Compiled
+   Started: 11:46
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_WSNP_V from ACS_STG_TLM_W03120_1_ING_WSNP
+
+   Item #: 497
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V
+   Status: Compiled
+   Started: 11:36
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_COSTS_V from ACS_STG_TLM_W03127_1_ING_COSTS
+
+   Item #: 498
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V
+   Status: Compiled
+   Started: 11:30
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ADD_INFO_V from ACS_STG_TLM_W03141_1_ING_MORTGAGE_ADD_INFO
+
+   Item #: 499
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V
+   Status: Compiled
+   Started: 11:19
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_NHG_GIB_DOSSIERRAPPORTA_V from ACS_STG_TLM_W03142_1_ING_NHG_GIB_DOSSIERRAPPORTA
+
+   Item #: 500
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V
+   Status: Compiled
+   Started: 11:09
+   On date: 28-2-2019
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_MANUAL_V from ACS_STG_TLM_W03049_1_ING_ARRANGEMENT_MANUAL
+
+   Item #: 501
+   Job name: XCO_SQ_Start_Job.15489293500118986906000002499280604946187374531790
+   Status: Has been reset
+   Started: 11:19
+   On date: 31-1-2019
+   Last ran: 11:19
+   On date: 31-1-2019
+   Elapsed time: 00:00:01
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 502
+   Job name: XCO_SQ_Start_Job.15488333520867297776000001474632193406687984085210
+   Status: Has been reset
+   Started: 09:25
+   On date: 30-1-2019
+   Last ran: 09:25
+   On date: 30-1-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 503
+   Job name: XCO_SQ_Start_Job.15472847570572211564000003276269854434659821893370
+   Status: Has been reset
+   Started: 08:50
+   On date: 14-1-2019
+   Last ran: 08:50
+   On date: 14-1-2019
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 504
+   Job name: XCO_SQ_Start_Job.15455655370563829358000001824687971600424869862370
+   Status: Has been reset
+   Started: 13:02
+   On date: 23-12-2018
+   Last ran: 13:02
+   On date: 23-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 505
+   Job name: XCO_SQ_Start_Job.15454494210133852468000002512492930219867017652900
+   Status: Has been reset
+   Started: 12:24
+   On date: 23-12-2018
+   Last ran: 12:24
+   On date: 23-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 506
+   Job name: XCO_SQ_Start_Job.15453640690332707522000000380087947981075684750610
+   Status: Has been reset
+   Started: 17:47
+   On date: 21-12-2018
+   Last ran: 17:47
+   On date: 21-12-2018
+   Elapsed time: 00:00:01
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 507
+   Job name: XCO_SQ_Start_Job.15451902200061759272000002163738563971488564210000
+   Status: Has been reset
+   Started: 09:13
+   On date: 19-12-2018
+   Last ran: 09:13
+   On date: 19-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 508
+   Job name: XCO_JP_Exception_Log_Err.15427656100107406015000001324168618370897785740670
+   Status: Has been reset
+   Started: 08:42
+   On date: 10-12-2018
+   Last ran: 08:42
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 509
+   Job name: XCO_JP_Exception_Log_Err.15427692080075167800000001959060749417948321550100
+   Status: Has been reset
+   Started: 08:42
+   On date: 10-12-2018
+   Last ran: 08:42
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 510
+   Job name: XCO_JP_Exception_Log_Err.15427710060399613983000000894860319705007334401640
+   Status: Has been reset
+   Started: 08:42
+   On date: 10-12-2018
+   Last ran: 08:42
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 511
+   Job name: XCO_JP_Exception_Log_Err.15427710190812946366000000936618616260231527378950
+   Status: Has been reset
+   Started: 08:42
+   On date: 10-12-2018
+   Last ran: 08:42
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 512
+   Job name: XCO_JP_Exception_Log_Err.15427611070948939616000002459179031972579833664160
+   Status: Has been reset
+   Started: 08:42
+   On date: 10-12-2018
+   Last ran: 08:42
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 513
+   Job name: XCO_JP_Exception_Log_Err.15427585270949428709000003201578124614170935471900
+   Status: Has been reset
+   Started: 08:41
+   On date: 10-12-2018
+   Last ran: 08:41
+   On date: 10-12-2018
+   Elapsed time: 00:00:01
+   Description: Set the status of the run of the flow.
+
+   Item #: 514
+   Job name: XCO_SQ_Start_Job.15444126210064001603000002091775872473255678116270
+   Status: Has been reset
+   Started: 08:31
+   On date: 10-12-2018
+   Last ran: 08:31
+   On date: 10-12-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 515
+   Job name: XCO_SQ_Start_Job.15363061790520684275000000044221597671526454461650
+   Status: Has been reset
+   Started: 12:25
+   On date: 7-9-2018
+   Last ran: 12:25
+   On date: 7-9-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 516
+   Job name: XCO_SQ_Start_Job.15362973320887230322000000685977920386251546141400
+   Status: Has been reset
+   Started: 09:31
+   On date: 7-9-2018
+   Last ran: 09:31
+   On date: 7-9-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 517
+   Job name: XCO_SQ_Start_Job.15354354700024778955000003189312589653947461410920
+   Status: Has been reset
+   Started: 15:25
+   On date: 28-8-2018
+   Last ran: 15:25
+   On date: 28-8-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 518
+   Job name: XCO_JP_Exception_Log_Err.15318756070717808401000000314236569116740092374550
+   Status: Has been reset
+   Started: 15:25
+   On date: 28-8-2018
+   Last ran: 15:25
+   On date: 28-8-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 519
+   Job name: XCO_SQ_Start_Job.15301705100056230685000002911081319038499452188600
+   Status: Has been reset
+   Started: 11:39
+   On date: 28-6-2018
+   Last ran: 11:39
+   On date: 28-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 520
+   Job name: XCO_JP_Log_Err.15301705100056230685000002911081319038499452188600
+   Status: Has been reset
+   Started: 11:35
+   On date: 28-6-2018
+   Last ran: 11:35
+   On date: 28-6-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 521
+   Job name: XCO_JP_Exception_Log_Err.15301705100056230685000002911081319038499452188600
+   Status: Has been reset
+   Started: 11:35
+   On date: 28-6-2018
+   Last ran: 11:35
+   On date: 28-6-2018
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 522
+   Job name: XCO_SQ_Start_Job.15297224370677589041000000377211729628521374631050
+   Status: Has been reset
+   Started: 09:32
+   On date: 25-6-2018
+   Last ran: 09:32
+   On date: 25-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 523
+   Job name: XCO_SQ_Start_Job.15294162080653911608000002281328100123181980621900
+   Status: Has been reset
+   Started: 17:01
+   On date: 19-6-2018
+   Last ran: 17:01
+   On date: 19-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 524
+   Job name: XCO_SQ_Start_Job.15293912130628764084000001226932288131504486159080
+   Status: Has been reset
+   Started: 14:53
+   On date: 19-6-2018
+   Last ran: 14:53
+   On date: 19-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 525
+   Job name: XCO_SQ_Start_Job.15291258250364577855000001728156329000280594642740
+   Status: Has been reset
+   Started: 08:52
+   On date: 19-6-2018
+   Last ran: 08:52
+   On date: 19-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 526
+   Job name: XCO_SQ_Start_Job.15293786160712797666000001179139466382821856129470
+   Status: Has been reset
+   Started: 08:52
+   On date: 19-6-2018
+   Last ran: 08:52
+   On date: 19-6-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 527
+   Job name: XCO_SQ_Start_Job.15216894040218414758000000487717484288187958812760
+   Status: Has been reset
+   Started: 14:07
+   On date: 22-3-2018
+   Last ran: 14:07
+   On date: 22-3-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 528
+   Job name: XCO_SQ_Start_Job.15216876050611523435000001383987877432466053626340
+   Status: Has been reset
+   Started: 14:07
+   On date: 22-3-2018
+   Last ran: 14:07
+   On date: 22-3-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 529
+   Job name: XCO_SQ_Start_Job.15216840080868181392000003232219579903728378757180
+   Status: Has been reset
+   Started: 14:07
+   On date: 22-3-2018
+   Last ran: 14:07
+   On date: 22-3-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 530
+   Job name: XCO_SQ_Start_Job.15216795080509577363000001161964647201117647718400
+   Status: Has been reset
+   Started: 14:06
+   On date: 22-3-2018
+   Last ran: 14:06
+   On date: 22-3-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 531
+   Job name: XCO_SQ_Start_Job.15216769250179826906000000545190115807626738802530
+   Status: Has been reset
+   Started: 14:06
+   On date: 22-3-2018
+   Last ran: 14:06
+   On date: 22-3-2018
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 532
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_COLLECTIONS_K
+   Status: Compiled
+   Started: 15:34
+   On date: 19-2-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_COLLECTIONS_V
+
+   Item #: 533
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_K
+   Status: Compiled
+   Started: 15:33
+   On date: 19-2-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_MORTGAGE_ACCOUNT_V
+
+   Item #: 534
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ORGANISATIONS_K
+   Status: Compiled
+   Started: 15:33
+   On date: 19-2-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ORGANISATIONS_V
+
+   Item #: 535
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_K
+   Status: Compiled
+   Started: 15:32
+   On date: 19-2-2018
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_SME_CURRENT_ACCOUNT_V
+
+   Item #: 536
+   Job name: NL_DB_ACS_PRP_FP_TFRD_CNSMR_LOAN
+   Status: Compiled
+   Started: 14:31
+   On date: 27-11-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 537
+   Job name: NL_DB_ACS_SQ_LD_DMT_STAR_TFRD_CNSMR_LOAN
+   Status: Compiled
+   Started: 14:32
+   On date: 10-11-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 538
+   Job name: NL_DB_TLM_STAR_TFRD_CNSMR_LOAN_MAIN
+   Status: Compiled
+   Started: 14:09
+   On date: 10-11-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Description NL_DB_TLM_STAR_TFRD_CNSMR_LOAN_MAIN
+-----------------------------------------------------------------------------------------------------------------
+Main sequence load Treatment Position datamart . 
+
+   Item #: 539
+   Job name: NL_DB_ACS_DMT_FP_TFRD_CNSMR_LOAN
+   Status: Compiled
+   Started: 13:46
+   On date: 10-11-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load CDM_PRP_SEGMENT
+
+   Item #: 540
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_DCA_K
+   Status: Compiled
+   Started: 16:32
+   On date: 29-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_DCA_V
+
+   Item #: 541
+   Job name: NL_DB_TLM_SQ_VAL_MEASURE
+   Status: Compiled
+   Started: 14:02
+   On date: 18-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Description NL_DB_TLM_SQ_VAL:_MEASURES
+-----------------------------------------------------------------------------------------------------------------
+Job to call the acs_is_run_VAL.sh script to execute DQ measuremenst on STG tables after flat files have been loaded
+
+   Item #: 542
+   Job name: NL_DB_ACS_CDS_AR_K_ING_FORBEARANCE_Opt
+   Status: Compiled
+   Started: 15:43
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V
+
+   Item #: 543
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCT_STATUS_Opt
+   Status: Compiled
+   Started: 15:43
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V
+
+   Item #: 544
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCOUNT_MEASURES_Opt
+   Status: Compiled
+   Started: 15:43
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V
+
+   Item #: 545
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCOUNT_BASE_Opt
+   Status: Compiled
+   Started: 15:43
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V
+
+   Item #: 546
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V_Opt
+   Status: Compiled
+   Started: 15:08
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V met del ind
+
+   Item #: 547
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V_Opt
+   Status: Compiled
+   Started: 15:08
+   On date: 14-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V met del_ind 
+
+   Item #: 548
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FA_K
+   Status: Compiled
+   Started: 18:50
+   On date: 13-9-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FA_V
+
+   Item #: 549
+   Job name: NL_DB_ACS_SQ_LD_PRP_STAR_TFRD_CNSMR_LOAN
+   Status: Compiled
+   Started: 09:38
+   On date: 29-8-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 550
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_SCM_V
+   Status: Compiled
+   Started: 16:42
+   On date: 19-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load BLS_SAC_CL_SCM_V
+
+   Item #: 551
+   Job name: XCO_SQ_Start_Job
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 552
+   Job name: XCO_SQ_Start_Job.15209064080816845573000001779278177800829466410200
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 553
+   Job name: XCO_SQ_Start_Job.15209100050055834269000003037040916565742033114280
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 554
+   Job name: XCO_SQ_Start_Job.15209118080680188883000001849513629111144285167530
+   Status: Compiled
+   Started: 09:32
+   On date: 14-7-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Validate, execute and register the run of a flow.
+
+   Item #: 555
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R
+   Status: Compiled
+   Started: 16:03
+   On date: 26-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_X_IP_CONTACTS_R met del_ind
+
+   Item #: 556
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_TEAM_V
+   Status: Compiled
+   Started: 10:22
+   On date: 26-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_TEAM_V met del_ind
+
+   Item #: 557
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V
+   Status: Compiled
+   Started: 18:20
+   On date: 20-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V met del_ind
+
+   Item #: 558
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V
+   Status: Compiled
+   Started: 18:08
+   On date: 20-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_DETAILS_V met del_ind
+
+   Item #: 559
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_ING_PERSON_V
+   Status: Compiled
+   Started: 17:44
+   On date: 20-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load:ACS_SAC_TLM_SS_TLM_IP_ING_PERSON_V met del_ind
+
+   Item #: 560
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I
+   Status: Compiled
+   Started: 09:44
+   On date: 20-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_EV_ACCOUNTSEGMENTATIONRESULTS_I met del_ind
+
+   Item #: 561
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_EV_ACCOUNTACTIVITIES_I
+   Status: Compiled
+   Started: 15:10
+   On date: 19-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_EV_ACCOUNTACTIVITIES_I met del_ind
+
+   Item #: 562
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V
+   Status: Compiled
+   Started: 14:18
+   On date: 15-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ARRANGEMENTBALANCESCHEDULES_V met del_ind
+
+   Item #: 563
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V
+   Status: Compiled
+   Started: 13:39
+   On date: 15-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ACCOUNTS_V met del_ind
+
+   Item #: 564
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CO_ROUTEPOSITIONS_V
+   Status: Compiled
+   Started: 12:03
+   On date: 15-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_CO_ROUTEPOSITIONS_V met del_ind
+
+   Item #: 565
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_SEGMENTS_V
+   Status: Compiled
+   Started: 11:17
+   On date: 15-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_CL_SEGMENTS_V met del_ind
+
+   Item #: 566
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_CL_ACTIVITIES_V
+   Status: Compiled
+   Started: 10:20
+   On date: 15-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_CL_ACTIVITIES_V met del_ind
+
+   Item #: 567
+   Job name: XCO_JP_Start_Job_Run
+   Status: Compiled
+   Started: 13:31
+   On date: 14-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 568
+   Job name: XCO_JP_Start_Job_Run.15209019060903125773000002886537346059988157161830
+   Status: Compiled
+   Started: 13:31
+   On date: 14-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 569
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V
+   Status: Compiled
+   Started: 13:53
+   On date: 1-6-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODES_V met del_ind
+
+   Item #: 570
+   Job name: NL_DB_ACS_CDS_SS_TLM_RI_ING_HYPOS_CALENDER_K
+   Status: Compiled
+   Started: 11:17
+   On date: 18-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_RI_K from ACS_SAC_TLM_SS_TLM_RI_ING_HYPOS_CALENDER_V
+
+   Item #: 571
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_USERS_V
+   Status: Compiled
+   Started: 17:10
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_USERS_V met del_ind
+
+   Item #: 572
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V
+   Status: Compiled
+   Started: 16:42
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V met del_ind
+
+   Item #: 573
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_RI_ING_WORKING_DAYS_V
+   Status: Compiled
+   Started: 15:22
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_RI_ING_WORKING_DAYS_V met del_ind
+
+   Item #: 574
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V
+   Status: Compiled
+   Started: 15:21
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_IP_CONTACTS_V met del_ind
+
+   Item #: 575
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST_V
+   Status: Compiled
+   Started: 15:18
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_DEBT_EPISODE_HIST met del_ind
+
+   Item #: 576
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V
+   Status: Compiled
+   Started: 15:18
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_ASSIGNMENT_V met del_ind
+
+   Item #: 577
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V
+   Status: Compiled
+   Started: 15:17
+   On date: 17-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V met del_ind 
+
+   Item #: 578
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_K
+   Status: Compiled
+   Started: 16:45
+   On date: 16-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_PER_COLLECT_ACTIVITIES_V
+
+   Item #: 579
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_CURRENT_ACCOUNT_K
+   Status: Compiled
+   Started: 15:03
+   On date: 15-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_CURRENT_ACCOUNT_V
+
+   Item #: 580
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ARRANGEMENT_K
+   Status: Compiled
+   Started: 14:40
+   On date: 15-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ARRANGEMENT_V
+
+   Item #: 581
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_K
+   Status: Compiled
+   Started: 14:22
+   On date: 15-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_V
+
+   Item #: 582
+   Job name: NL_DB_ACS_CDS_SS_TLM_CL_CV_V
+   Status: Compiled
+   Started: 13:25
+   On date: 15-5-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 583
+   Job name: NL_DB_TLM_SQ_NZLOAD
+   Status: Compiled
+   Started: 10:53
+   On date: 6-3-2017
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Description NL_DB_TLM_SQ_NZLOAD
+-----------------------------------------------------------------------------------------------------------------
+Multi-instance job to call the nzload.sh script to load flat files in staging for TLM
+
+   Item #: 584
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FORBEARANCE_V_D
+   Status: Compiled
+   Started: 16:41
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 585
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_FORBEARANCE_V
+   Status: Compiled
+   Started: 16:41
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 586
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_STATUS_V_D
+   Status: Compiled
+   Started: 16:41
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 587
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCT_STATUS_V
+   Status: Compiled
+   Started: 16:40
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 588
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MEASURES_V_D
+   Status: Compiled
+   Started: 16:40
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 589
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MEASURES_V
+   Status: Compiled
+   Started: 16:40
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 590
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_BASE_V_D
+   Status: Compiled
+   Started: 16:40
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 591
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_BASE_V
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 592
+   Job name: NL_DB_ACS_CDS_AR_K_ING_FORBEARANCE
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_FORBEARANCE_V
+
+   Item #: 593
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCT_STATUS
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCT_STATUS_V
+
+   Item #: 594
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCOUNT_MEASURES
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V
+
+   Item #: 595
+   Job name: NL_DB_ACS_CDS_AR_K_ING_ACCOUNT_BASE
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load ACS_CDS_AR_K from ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_BASE_V
+
+   Item #: 596
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MEASURES_V_Opt
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 597
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_MEASURES_V_D_Opt
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 598
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_BASE_V_Opt
+   Status: Compiled
+   Started: 16:39
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 599
+   Job name: NL_DB_ACS_CDS_SS_TLM_AR_ING_ACCOUNT_BASE_V_D_Opt
+   Status: Compiled
+   Started: 16:38
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 600
+   Job name: NL_DB_ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V
+   Status: Compiled
+   Started: 16:38
+   On date: 10-11-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Load: ACS_SAC_TLM_SS_TLM_AR_ING_ACCOUNT_MEASURES_V
+
+   Item #: 601
+   Job name: NL_DB_ACS_SQ_Collect_Features
+   Status: Compiled
+   Started: 13:10
+   On date: 19-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 602
+   Job name: NL_DB_ACS_SQ_Episodes_136
+   Status: Compiled
+   Started: 13:09
+   On date: 19-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 603
+   Job name: NL_DB_ACS_SQ_Failed_Transactions_16
+   Status: Compiled
+   Started: 13:09
+   On date: 19-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 604
+   Job name: NL_DB_ACS_SQ_LD_STG
+   Status: Compiled
+   Started: 13:08
+   On date: 19-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 605
+   Job name: NL_DB_ACS_SQ_PaymentAccountSpendingLimit_16
+   Status: Compiled
+   Started: 13:08
+   On date: 19-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 606
+   Job name: NL_DB_ACS_SQ_LD_SAC
+   Status: Compiled
+   Started: 13:45
+   On date: 17-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 607
+   Job name: XCO_JP_Exception_Log_Err
+   Status: Compiled
+   Started: 11:13
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 608
+   Job name: XCO_JP_Log_Err
+   Status: Compiled
+   Started: 11:11
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 609
+   Job name: XCO_JP_Update_Job_Run
+   Status: Compiled
+   Started: 10:16
+   On date: 7-10-2016
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Set the status of the run of the flow.
+
+   Item #: 610
+   Job name: NL_DB_ACS_SG_MASTER
+   Status: Compiled
+   Started: 19:06
+   On date: 2-12-2015
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: 
+
+   Item #: 611
+   Job name: NL_DB_ACS_SG_TRANSPOSE_ALL
+   Status: Compiled
+   Started: 12:53
+   On date: 24-11-2015
+   Last ran: 
+   On date: 
+   Elapsed time: 
+   Description: Job Description:
+--------------------------------------
+Transpose Episode Features to ALL Features
+
+
+End of report.
